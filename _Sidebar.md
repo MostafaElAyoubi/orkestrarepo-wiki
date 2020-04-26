@@ -1,7 +1,7 @@
 
 ***
 
-# [Desktop App](https://github.com/MostafaElAyoubi/OrkestraOnline/wiki/Orkestra-Desktop-App)
+# [Desktop App](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Desktop-App)
 ### LogIn
 ### Hubs and workspaces
 
