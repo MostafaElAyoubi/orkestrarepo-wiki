@@ -7,17 +7,17 @@
 
 ***
 
-# [Revit Addin](https://github.com/MostafaElAyoubi/OrkestraOnline/wiki/Orkestra-Revit-Addin)
+# [Revit Addin](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Revit-Addin)
 ### LogIn
 
 ***
 
-# [Dynamo View Extension](https://github.com/MostafaElAyoubi/OrkestraOnline/wiki/Orkestra-View-Extension)
+# [Dynamo View Extension](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-View-Extension)
 ### LogIn
 
 ***
 
-# [Dynamo Package](https://github.com/MostafaElAyoubi/OrkestraOnline/wiki/Orkestra-Dynamo-Package)
+# [Dynamo Package](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Dynamo-Package)
 ### LogIn
 
 ***
