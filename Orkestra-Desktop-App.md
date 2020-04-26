@@ -1,0 +1,1 @@
+The Desktop app is a management tool that lets you unpload/download definitions and packages, organise and manage user accesses, etc.
