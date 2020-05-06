@@ -5,6 +5,7 @@ A Hub is a storage space where you can load and organize your Dynamo definitions
 To edit the Hub settings:
 1. Select the Hub in the "Online Workspaces" window 
 2. Click on ![settings](https://datashapes.files.wordpress.com/2020/05/hub-settings.png?) . This button will only be enabled if your are the owner/ an administrator of the Hub.
+
 ![enterSettings](https://datashapes.files.wordpress.com/2020/05/hu-settings-_.png?)
 
 ## User settings
