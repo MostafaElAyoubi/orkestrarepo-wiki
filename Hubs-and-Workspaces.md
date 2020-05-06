@@ -10,6 +10,18 @@ To edit the Hub settings:
 
 ## User settings
 
+In the Hub settings, you can specify which user gets access to it's content. The list of users and their level of access is diplayed here:
 
-## Package settings
+![userSettings](https://datashapes.files.wordpress.com/2020/05/usersettings.png?)
+
+**If someone has access to a Hub, they have acces to ALL THE CONTENT OF THE HUB.**
+
+You can easilly manage the users through this window:
+
+### Add users to the Hub
+1. Click on 
+2. Enter the email of the user you wish to add (they need to have an Orkestra Online account) and specify their role. <font color="red">Note that - for now - every person invited to a Hub will have an "Admin" role. There is no "User" role at Hub level. (Looking forward to collect feedback and this particular point)</font>
+### Delete users from the Hub
+
+## Package Settings
 
