@@ -23,14 +23,18 @@ In the Hub settings, you can specify which user gets access to it's content. The
 You can easilly manage the users through this window:
 
 ### Add users to the Hub
-1. Click on 
+1. Click on ![add](https://datashapes.files.wordpress.com/2020/05/adduser.png?)
 2. Enter the email of the user you wish to add (they need to have an Orkestra Online account) and specify their role.
+![enteruser](https://datashapes.files.wordpress.com/2020/05/enteruser.png?)
 
 ```diff
 - Note that - for now - every person invited to a Hub will have an "Admin" role. -
 - There is no "User" role at Hub level. -
 - (Looking forward to collect feedback onthis particular point) -
 ```
+### Delete users from the Hub
+1. Select the user to be deleted in the list 
+2. Click on ![delUser](https://datashapes.files.wordpress.com/2020/05/deluser.png?)
 
 ## Package Settings
 
