@@ -1,4 +1,4 @@
-# HUB ![cloud](https://datashapes.files.wordpress.com/2020/05/cloudi.png?) "
+# HUB ![cloud](https://datashapes.files.wordpress.com/2020/05/cloudi.png?) 
 
 Every Orkestra Online account has an associated "Hub". 
 A Hub is a storage space where you can load and organize your Dynamo definitions. It is represented by a " ![cloud](https://datashapes.files.wordpress.com/2020/05/cloudi.png?resize=20%2C20) " in the "Online Workspaces" window.
