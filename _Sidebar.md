@@ -4,6 +4,10 @@
 # [Desktop App](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Desktop-App)
   ### [LogIn](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Login-From-Desktop-App)
   ### Hubs and workspaces
+  ### Uploading Definitions
+  ### Definition MetaData and Documentation
+  ### Versionning
+  ### Syncing a Package Folder
   ### Analytics
   ### Playlists
   ### Account Settings
@@ -17,7 +21,10 @@
   ### Orkestra Online Player Tab
   ### Online QuickAccesses
   ### PlayLists
-  ### Hubs and workspaces
+  ### Uploading Definitions
+  ### Definition MetaData and Documentation
+  ### Versionning
+  ### Syncing a Package Folder
   ### Analytics
   ### Account Settings
 
@@ -28,6 +35,10 @@
   ### Orkestra View Extension Local Tab
   ### Orkestra View Extensions Online Tab
   ### OrkestraGit
+  ### Uploading Definitions
+  ### Definition MetaData and Documentation
+  ### Versionning
+  ### Syncing a Package Folder
 
 ***
 
