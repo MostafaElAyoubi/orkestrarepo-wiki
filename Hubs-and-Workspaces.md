@@ -25,6 +25,7 @@ You can easilly manage the users through this window:
 ### Add users to the Hub
 1. Click on ![add](https://datashapes.files.wordpress.com/2020/05/adduser.png?)
 2. Enter the email of the user you wish to add (they need to have an Orkestra Online account) and specify their role.
+
 ![enteruser](https://datashapes.files.wordpress.com/2020/05/enteruser.png?)
 
 ```diff
