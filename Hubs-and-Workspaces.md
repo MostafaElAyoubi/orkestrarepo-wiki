@@ -28,8 +28,8 @@ You can easilly manage the users through this window:
 
 ```diff
 - Note that - for now - every person invited to a Hub will have an "Admin" role. 
-There is no "User" role at Hub level. 
-(Looking forward to collect feedback onthis particular point) -
+- There is no "User" role at Hub level. 
+- (Looking forward to collect feedback onthis particular point)
 ```
 
 ## Package Settings
