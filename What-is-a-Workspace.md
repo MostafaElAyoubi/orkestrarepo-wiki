@@ -11,7 +11,7 @@ A Workspace is a storage space where you can load and organize your Dynamo defin
 4. Your new Workspace will appear as a child of the Hub
 ![wsadded](https://datashapes.files.wordpress.com/2020/05/wsadded.png?)
 
-##To edit the Workspace settings:
+## To edit the Workspace settings:
 1. Select the Workspace in the "Online Workspaces" window 
 2. Click on ![settings](https://datashapes.files.wordpress.com/2020/05/hub-settings.png?) . **This button will only be enabled if your are the owner/ an administrator of the Workspace**.
 
