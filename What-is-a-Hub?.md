@@ -50,12 +50,12 @@ This lets you set the exact package versions that are required for your definiti
 ![package settings](https://datashapes.files.wordpress.com/2020/05/synpackages.png?)
 
 In order to synchronize a set of packages with your Hub, you need to : 
-1. Press the ![syncpackages](https://datashapes.files.wordpress.com/2020/05/synpackages.png?) button on the bottom right of the Hub settings window
+1. Press the ![syncpackage](https://datashapes.files.wordpress.com/2020/05/synpackages.png?) button on the bottom right of the Hub settings window
 2. Browse to a folder containing the packages you wish to sync with the Hub
 
 ![selectfolder](https://datashapes.files.wordpress.com/2020/05/set-package-folder-1.png?)
 
-The content of that folder is the Dynamo package folders:
+The content of that folder is the Dynamo package folders and must look something like this:
 
 ![packagefoldercontent](https://datashapes.files.wordpress.com/2020/05/packages-1.png?)
 
