@@ -2,7 +2,7 @@
 # [Home](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki)
 # [Desktop App](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Desktop-App)
   ### [LogIn](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Login-From-Desktop-App)
-  ### [What is a Hub?](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Hubs-and-Workspaces)
+  ### [What is a Hub?](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/What-is-a-Hub%3F)
   ### What is a Workspace?
   ### Syncing a Package Folder
   ### Uploading Definitions
