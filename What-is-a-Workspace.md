@@ -5,7 +5,7 @@ A Workspace is a storage space where you can load and organize your Dynamo defin
 
 ##To create a Workspace:
 1. Select the Hub you wish to add a Workspace to in the **Online Workspaces** window
-2. Press  ![new workspace](https://datashapes.files.wordpress.com/2020/05/addworkspace.png?resize=107%2C107)
+2. Press  ![new workspace](https://datashapes.files.wordpress.com/2020/05/addworkspace.png?)
 3. Select a name for your Workspace and confirm by clicking "Create Folder"
 ![naming](https://datashapes.files.wordpress.com/2020/05/namingws.png?)
 4. Your new Workspace will appear as a child of the Hub
