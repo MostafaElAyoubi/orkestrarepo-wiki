@@ -59,6 +59,10 @@ The content of that folder is the Dynamo package folders and must look something
 
 ![packagefoldercontent](https://datashapes.files.wordpress.com/2020/05/packages-1.png?)
 
+One the sync if finished, you can see the list of packages and their versions displayed in the Orkestra Hub Settings window:
+
+![packagesupdated](https://datashapes.files.wordpress.com/2020/05/packages-updated.png?)
+
 ```diff
 -By default, the Package Settings at Hub level are inherited by the Workspaces located inside the Hub.-
 -But those settings can be overriden at Workspace level.-
