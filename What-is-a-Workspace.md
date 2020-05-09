@@ -1,14 +1,19 @@
-# HUB 
-Every **Orkestra Online** account has an associated "Hub". 
-A Hub is a storage space where you can load and organize your Dynamo definitions. It is represented by a " ![cloud](https://datashapes.files.wordpress.com/2020/05/cloudi.png?resize=30%2C20) " in the "Online Workspaces" window.
-**If you are the owner/ an administrator of the Hub**, you can view and edit it's **settings** 
-```diff
-- A Hub cannot directly contain Dynamo definitions. -
-```
+# Workspaces 
+Workspaces are the **first level of subfolders inside a Hub**.
+A Workspace is a storage space where you can load and organize your Dynamo definitions. It is represented by a " ![folder](https://datashapes.files.wordpress.com/2020/05/workspace.png?) " in the "Online Workspaces" window.
+**If you are the owner/ an administrator of the Workspace**, you can view and edit it's **settings**. **If you as the owner/ an administrator of a Hub**, you can add new Workspaces to it. 
 
-##To edit the Hub settings:
-1. Select the Hub in the "Online Workspaces" window 
-2. Click on ![settings](https://datashapes.files.wordpress.com/2020/05/hub-settings.png?) . This button will only be enabled if your are the owner/ an administrator of the Hub.
+##To create a Workspace:
+1. Select the Hub you wish to add a Workspace to in the **Online Workspaces** window
+2. Press  ![new workspace](https://datashapes.files.wordpress.com/2020/05/addworkspace.png?resize=107%2C107)
+3. Select a name for your Workspace and confirm by clicking "Create Folder"
+![naming](https://datashapes.files.wordpress.com/2020/05/namingws.png?)
+4. Your new Workspace will appear as a child of the Hub
+![wsadded](https://datashapes.files.wordpress.com/2020/05/wsadded.png?)
+
+##To edit the Workspace settings:
+1. Select the Workspace in the "Online Workspaces" window 
+2. Click on ![settings](https://datashapes.files.wordpress.com/2020/05/hub-settings.png?) . **This button will only be enabled if your are the owner/ an administrator of the Workspace**.
 
 ![enterSettings](https://datashapes.files.wordpress.com/2020/05/hu-settings-_.png?)
 
