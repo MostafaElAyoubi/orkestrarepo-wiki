@@ -37,5 +37,29 @@ You can easilly manage the users through this window:
 1. Select the user to be deleted in the list 
 2. Click on ![delUser](https://datashapes.files.wordpress.com/2020/05/deluser.png?)
 
+```diff
+-By default, the User Settings at Hub level are inherited by the Workspaces located inside the Hub.-
+-But those settings can be overriden at Workspace level.-
+```
+
 ## Package Settings
 
+The Hub settings also let you sync a set of packages to be used for definitions located inside that Hub. That means that when played through the Orkestra Online Tab of the Orkestra Revit Addin, Orkestra switches the package environment automaticcaly accordingly with the those settings. 
+This lets you set the exact package versions that are required for your definitions, which makes deploying your content much easier and safer.
+
+![package settings](https://datashapes.files.wordpress.com/2020/05/synpackages.png?)
+
+In order to synchronize a set of packages with your Hub, you need to : 
+1. Press the "![synpackages](https://datashapes.files.wordpress.com/2020/05/synpackages.png?)" button on the bottom right of the Hub settings window
+2. Browse to a folder containing the packages you wish to sync with the Hub
+
+![selectfolder](https://datashapes.files.wordpress.com/2020/05/set-package-folder-1.png?)
+
+The content of that folder is the Dynamo package folders:
+
+![packagefoldercontent](https://datashapes.files.wordpress.com/2020/05/packages-1.png?)
+
+```diff
+-By default, the Package Settings at Hub level are inherited by the Workspaces located inside the Hub.-
+-But those settings can be overriden at Workspace level.-
+```
