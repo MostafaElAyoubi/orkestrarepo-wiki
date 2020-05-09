@@ -18,7 +18,7 @@
   ### [LogIn](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Login-from-Revit-Addin)
   ### Orkestra Local Player Tab
   ### Local QuickAccesses
-  ### Orkestra Online Player Tab
+  ### [Orkestra Online Player Tab](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Online-Player-Tab)
   ### Online QuickAccesses
   ### PlayLists
   ### Syncing a Package Folder
