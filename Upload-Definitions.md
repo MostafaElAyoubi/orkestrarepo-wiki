@@ -1,4 +1,4 @@
-In order to make definitions available through the Orkestra Online Revit Addin and Orkestra Online Dynamo View Extension, you need to upload them to the platform. There are three ways to do so.
+In order to make definitions available through the Orkestra Online Revit Addin and Orkestra Online Dynamo View Extension, you need to upload them to the platform. There are several ways to do so.
 
 ## Uppload definition(s) to a Workspace
 ```diff
@@ -25,3 +25,7 @@ If you already have a folder structure that is nice and tidy and has all your co
 ![browseDyn](https://datashapes.files.wordpress.com/2020/05/browsedynfolder.png?)
 4. The folder and it's substructure and definitions will appear as a children of the Hub in the Online Workspaces window.
 ![addedDyns](https://datashapes.files.wordpress.com/2020/05/loadedfolder.png?resize=107%2C107
+
+## Upload a local definition from the Local Tab of the Orkestra Revit Addin
+
+## Upload a definition through the Orkestra Online Dynamo View Extension
