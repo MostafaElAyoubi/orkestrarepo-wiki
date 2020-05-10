@@ -33,8 +33,8 @@
   ### [LogIn](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Login-From-Dynamo-View-Extension)
   ### Orkestra View Extension Local Tab
   ### Orkestra View Extensions Online Tab
+  ### [Uploading Definitions](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Dynamo-View-Extension-:-Uploading-Definitions)
   ### OrkestraGit
-  ### Uploading Definitions
   ### Definition MetaData and Documentation
   ### Versionning
   ### Syncing a Package Folder
