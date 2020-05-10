@@ -40,7 +40,7 @@ An **admin ** will be able to edit all settings of the Workspace and will also b
 1. Select the user to be deleted in the list 
 2. Click on ![delUser](https://datashapes.files.wordpress.com/2020/05/deluser.png?)
 
-### Updating a users role:
+### Updating a user's role:
 1. Select a user in the list and use the dropdown menu to pick their new role
 ![changeRole](https://datashapes.files.wordpress.com/2020/05/changerole.png?)
 2. Click on ![delUser](https://datashapes.files.wordpress.com/2020/05/updaterole.png?) to update the user role information to the platform 
