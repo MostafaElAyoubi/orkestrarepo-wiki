@@ -1,4 +1,5 @@
-### Welcome to the Orkestra Online wiki! 
+# Welcome to the Orkestra Online wiki!
+
 This is where every **functionality** will be documented. Feel free to browse it and report any issue you may notice or undocumented aspects.
 
 ```diff
@@ -6,5 +7,4 @@ This is where every **functionality** will be documented. Feel free to browse it
 ```
 
 ![Owiki](https://datashapes.files.wordpress.com/2020/05/orkestrawiki.jpg?)
-
 
