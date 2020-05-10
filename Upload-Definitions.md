@@ -31,3 +31,5 @@ If you already have a folder structure that is nice and tidy and has all your co
 You can upload definitions through the [Local Tab of the Orkestra Revit Addin](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Local-Player-Tab) by following.
 
 ## Upload a definition through the Orkestra Online Dynamo View Extension
+
+You can push a definition to Orkestra right from Dynamo using the [Orkestra Online Dynamo View Extension](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Dynamo-View-Extension-:-Uploading-Definitions).
