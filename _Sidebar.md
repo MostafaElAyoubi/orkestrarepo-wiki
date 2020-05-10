@@ -15,7 +15,7 @@
 
 # [Revit Addin](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Revit-Addin)
   ### [LogIn](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Login-from-Revit-Addin)
-  ### Orkestra Local Player Tab
+  ### [Orkestra Local Player Tab](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Local-Player-Tab)
   ### Local QuickAccesses
   ### [Orkestra Online Player Tab](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Online-Player-Tab)
   ### Online QuickAccesses
