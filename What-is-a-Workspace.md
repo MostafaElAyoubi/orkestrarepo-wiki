@@ -21,7 +21,7 @@ A Workspace is a storage space where you can load and organize your Dynamo defin
 
 In the Workpace Settings, you can specify which user gets access to it's content. The list of users and their level of access is diplayed here:
 
-![userSettings](https://datashapes.files.wordpress.com/2020/05/wsusers.png?resize=107%2C107)
+![userSettings](https://datashapes.files.wordpress.com/2020/05/wsusers.png?)
 
 **If someone has access to the parent Hub of the Workspace as a Hub Admin, they automatically have acces to the workspaces as well.**
 
