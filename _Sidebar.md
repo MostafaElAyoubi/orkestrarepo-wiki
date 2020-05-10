@@ -4,7 +4,7 @@
   ### [LogIn](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Login-From-Desktop-App)
   ### [What is a Hub?](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/What-is-a-Hub%3F)
   ### [What is a Workspace?](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/What-is-a-Workspace)
-  ### Uploading Definitions
+  ### [Uploading Definitions](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Upload-Definitions)
   ### Definition MetaData and Documentation
   ### Versionning
   ### Analytics
