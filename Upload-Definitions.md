@@ -28,4 +28,6 @@ If you already have a folder structure that is nice and tidy and has all your co
 
 ## Upload a local definition from the Local Tab of the Orkestra Revit Addin
 
+You can upload definitions through the [Local Tab of the Orkestra Revit Addin](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Local-Player-Tab) by following.
+
 ## Upload a definition through the Orkestra Online Dynamo View Extension
