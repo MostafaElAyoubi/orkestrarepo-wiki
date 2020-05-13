@@ -8,9 +8,9 @@ Workspaces are the **first level of subfolders inside a Hub**. A Workspace is a 
 2. Press  ![new workspace](https://datashapes.files.wordpress.com/2020/05/addworkspace.png?)
 3. Select a name for your Workspace and confirm by clicking "Create Folder"
 
-   ![naming](https://datashapes.files.wordpress.com/2020/05/namingws.png?)
-
 4. Your new Workspace will appear as a child of the Hub
+
+![](https://datashapes.files.wordpress.com/2020/05/namingws.png?)
 
 ![](https://datashapes.files.wordpress.com/2020/05/wsadded.png?)
 
