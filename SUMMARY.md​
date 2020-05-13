@@ -1,25 +1,14 @@
 # Table of contents
 
-## [Introduction](README.md)
-  * [Orkestra-Online-Player-Tab](orkestra-online-player-tab.md)
-  * [Orkestra-Dynamo-Package](orkestra-dynamo-package.md)
-  
-## [Definition-MetaData-and-Documentation](definition-metadata-and-documentation.md)
-  * [Welcome to the Orkestra Online wiki!](home.md)
-  * [Login-From-Dynamo-View-Extension](login-from-dynamo-view-extension.md)
-  
-## [Footer](footer.md)
-  * [Orkestra-Dynamo-View-Extension](orkestra-dynamo-view-extension.md)
-  * [Orkestra-View-Extension](orkestra-view-extension.md)
-    * [Upload-Definitions](upload-definitions.md)
-    * [Login-From-Desktop-App](login-from-desktop-app.md)
-    * [Orkestra-Desktop-App](orkestra-desktop-app.md)
-    * [Workspaces](what-is-a-workspace.md)
-    
-## [Orkestra-Local-Player-Tab](orkestra-local-player-tab.md)
+* [Introduction](README.md)
 
-## [Login-from-Revit-Addin](login-from-revit-addin.md)
+## Orkestra Desktop App
 
-## [Orkestra-Revit-Addin](orkestra-revit-addin.md)
-  * [SUMMARY](summary.md)
+* [LogIn](orkestra-desktop-app/log-in.md)
+* [What is a Hub?](orkestra-desktop-app/what-is-a-hub.md)
+* [What is a Workspace?](orkestra-desktop-app/what-is-a-workspace.md)
+* [Uploading Definitions](orkestra-desktop-app/uploading-definitions.md)
+* [Definition MetaData and Documentation](orkestra-desktop-app/definition-metadata-and-documentation-1.md)
+* [Analytics](orkestra-desktop-app/analytics.md)
+* [Orkestra Account Settings](orkestra-desktop-app/orkestra-account-settings.md)
 
