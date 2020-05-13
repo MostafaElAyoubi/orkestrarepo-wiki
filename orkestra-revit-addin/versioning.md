@@ -14,9 +14,7 @@ In order to browse a definition's history:
 
  3. A new window with all the history of the file will open:
 
-![](https://datashapes.files.wordpress.com/2020/05/dynversion.png)
-
-Definition Version History
+![Definition Version History](https://datashapes.files.wordpress.com/2020/05/dynversion.png)
 
 ## Rollback to a Specific Version <a id="rollback-to-a-specific-version"></a>
 
