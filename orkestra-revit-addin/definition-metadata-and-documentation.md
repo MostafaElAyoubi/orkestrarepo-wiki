@@ -4,7 +4,7 @@ One of the most powerful things in Orkestra Online is how it makes **documenting
 
 ![](https://datashapes.files.wordpress.com/2020/05/meta-and-doc.gif)
 
-The Properties Pannel
+## Definitions Metadata
 
 There are many informations associated to the definition when it's on the Orkestra Online platform. Some of that metadata is generated and updated automatically, making it fully reliable. Some other informations are to be entered by the creator of the definition to better communicate with the users.
 
