@@ -1,6 +1,6 @@
 # Introduction
 
-![Orkestra Logo](https://datashapes.files.wordpress.com/2020/04/orkestrafull_beta.png?w=2000)
+![](https://datashapes.files.wordpress.com/2020/04/orkestrafull_beta.png?w=2000)
 
 [![version](https://img.shields.io/badge/version-0.1.7-blue.svg)](https://github.com/MostafaElAyoubi/Orkestra_Online/releases) [![GitHub issues open](https://img.shields.io/github/issues/MostafaElAyoubi/Orkestra_Online.svg?)](https://github.com/MostafaElAyoubi/Orkestra_Online/issues) [![GitHub issues closed](https://img.shields.io/github/issues-closed/MostafaElAyoubi/Orkestra_Online.svg?)](https://github.com/MostafaElAyoubi/Orkestra_Online/issues?q=is%3Aissue+is%3Aclosed)
 
