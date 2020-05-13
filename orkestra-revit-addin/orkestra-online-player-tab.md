@@ -1,6 +1,6 @@
 # Orkestra Online Player Tab
 
-The **Online Player Tab of the Orkestra Revit Addin** is a Player that takes your online[ Hub ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub)and [Workspace](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace) settings into account when playing a definition. It lets you navigate and use all the online content that you have access to. **In order to enable the Online Player Tab, you need to** [**login**](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Login-from-Revit-Addin) **to your Orkestra Online account**.
+The **Online Player Tab of the Orkestra Revit Addin** is a Player that takes your online[ Hub ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub)and [Workspace](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace) settings into account when playing a definition. It lets you navigate and use all the online content that you have access to. **In order to enable the Online Player Tab, you need to** [**login**](https://datashapes.gitbook.io/orkestra-online/orkestra-revit-addin/login) **to your Orkestra Online account**.
 
 The **Online Tab** is represented by this logo : ![online](https://datashapes.files.wordpress.com/2020/05/onlineicon.png?)
 
