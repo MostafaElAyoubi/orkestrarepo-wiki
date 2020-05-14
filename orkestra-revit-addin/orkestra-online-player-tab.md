@@ -25,28 +25,39 @@ From here, you can perform all the settings introduced in the following chapter:
 
 The Orkestra Online Player Tab is one of the most powerful things about Orkestra. It works may look like it is doing the same thing as the Local Player Tab but it actually is much more soffisticated:
 
-### The Content:
+### The Content
 
 The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were giver access to through the Orkestra Platform and refreshes automatically giving you constant access to the **latest** [**version** ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/versioning)**of the definitions**.
 
+![Direct Access to You Online Content Directly Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
+
 ### The Package Settings
 
-The Online Player Tab **uses the package settings** that were associated to the Hubs and Workspaces and ensures that you have the appropriate dependencies loaded at each run! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch you package environment accordingly with the settings. When it does so, this window appears : 
+The Online Player Tab [**uses the package settings**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace#package-settings) that were associated to the Hubs and Workspaces and ensures that you have the appropriate dependencies loaded at each run! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch you package environment accordingly with the settings. When it does so, this window appears : 
 
 ![Orkestra Automatically Switches Your Packages to Fit The Workspace Settings](../.gitbook/assets/packagesetting.PNG)
 
-This phase take somewhere between a couple of seconds and a couple of minutes, depending on the number of packages you have associated to your Workspace. But it is optimized in a way that it only does so when the package environment needs to be changed. 
+This phase take somewhere between a couple of seconds and a couple of minutes, depending on the number of packages you have associated to your Workspace. But it is optimized in a way that it only does so when the package environment needs to be changed. This solves one of the most challenging problems of deploying Dynamo content at a large scale. 
 
 ```text
 WE STRONGLY ADVISE YOU TO KEEP THE NUMBER OF PACKAGES ASSOCIATED TO A WORKSPACE TO 
-A MINIMUM. Try and reduce that number to what is actually being used in your definitions.
+A MINIMUM. Try and reduce that number to what is actually being used in your 
+definitions. This will make the package environment shift much faster.
 ```
 
 ### The Analytics
 
 Whenever a definition is played through the Orkestra Online Player Tab, **some valuable data is pushed to your Orkestra Online database**. That data is what you can see in the [**Analytics**](https://app.gitbook.com/@datashapes/s/orkestra-online/~/drafts/-M7JnFAsI0ehGhuj7hxp/orkestra-desktop-app/analytics/@drafts).
 
+### The Security
+
+When you deploy content through Orkestra Online, you decide the level of access you give to your users. If you grant people "user" access to a Worspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. The content is streamed, securing the integrity of your work.
+
+People who have "admin" access to your content ill be able to download it, [modify it's metadata and associated documentation](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/definition-metadata-and-documentation-1), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
+
 ## Using the Search Bar
+
+The search bar on the Online Player Tab lets you search among the Online. It doesn' only use the definition names but also their key words, making it much more efficient! This search method, associated with the advanced metadata and documentation makes deployment much easier. 
 
 
 
