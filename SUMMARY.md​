@@ -15,7 +15,7 @@
 
 ## Orkestra Revit Addin
 
-* [Orkestra Revit Addin](orkestra-revit-addin/orkestra-revit-addin.md)
+* [Introduction](orkestra-revit-addin/orkestra-revit-addin.md)
 * [LogIn](orkestra-revit-addin/login.md)
 * [Orkestra Local Player Tab](orkestra-revit-addin/orkestra-local-player-tab.md)
 * [Local QuickAccesses](orkestra-revit-addin/local-quickaccesses.md)
@@ -30,6 +30,7 @@
 
 ## Orkestra Dynamo View Extension
 
+* [Introduction](orkestra-dynamo-view-extension/orkestra-view-extension.md)
 * [LogIn](orkestra-dynamo-view-extension/login.md)
 * [Orkestra View Extension Local Tab](orkestra-dynamo-view-extension/orkestra-view-extension-local-tab.md)
 * [Orkestra View Extension Online Tab](orkestra-dynamo-view-extension/orkestra-view-extension-online-tab.md)

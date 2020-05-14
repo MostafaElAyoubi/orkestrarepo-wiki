@@ -1,4 +1,4 @@
-# Orkestra Revit Addin
+# Introduction
 
 The Orkestra Revit Addin is a fully integrated version of Orkestra right inside Revit. It lets you access and manage your online hubs/workspaces and also delivers some key functionnalities such as :
 
