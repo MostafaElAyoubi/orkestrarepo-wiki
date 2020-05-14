@@ -6,23 +6,25 @@ One of the most powerful things in Orkestra Online is how it makes **documenting
 
 ## Definitions Metadata
 
-There are many informations associated to the definition when it's on the Orkestra Online platform. Some of that metadata is generated and updated automatically, making it fully reliable. Some other informations are to be entered by the creator of the definition to better communicate with the users.
+There is a lot of information associated to the definition when it's on the Orkestra Online platform. Some of that metadata is generated and updated automatically, making it fully reliable. Some other types of information are to be entered by the creator of the definition to better communicate with the users.
 
 ### Version
 
-The Orkestra Online platform **automatically keeps track of file versions**. The current version of a file is displayed on the Properties Pannel. More on definition versionning here!
+The Orkestra Online platform **automatically keeps track of file versions**. The current version of a file is displayed in the Properties Panel. More on definition versionning here!
 
 ### Last update
 
-**At each update of a definition, the date and time is saved automatically**. That lets you and your users know exactly when the last modification occured. This information is also displayed on the Properties Pannel.
+**At each update of a definition, the date and time is saved automatically**. That lets you and your users know exactly when the last modification occured. This information is also displayed in the Properties Panel.
 
 ### Last updated by
 
-It is always crucial to know who updated a definition. That helps improve reliability and accountability. Knowing who last updated a definition decreases the time spent looking on informations about that update as it points you at the most appropriate person te talk to. **This information is automatically associated with the definitions at each update** and is also displayed on the Properties Pannel.
+It is always crucial to know who updated a definition. That helps improve reliability and accountability. Knowing who last updated a definition decreases the time spent looking for information about that update as it points you to the most appropriate person to refer to. **This information is automatically associated with the definitions at each update** and is also displayed on the Properties Panel.
 
 ### Key Words
 
-Key Workds can be associated to a definition by it's creator/ administrator in order to reference it. Key Words allow definition sorting as well as searching. To edit the Key Words, you must be an administrator of the Workspace that contains the definition. All you have to do is: 1. Right Click on the definition and click ![info](https://datashapes.files.wordpress.com/2020/05/fileinfo.png?)  
+Key Words can be associated to a definition by its creator/ administrator in order to reference it. Key Words allow definition sorting as well as searching. To edit the Key Words, you must be an administrator of the Workspace that contains the definition. All you have to do is: 
+
+1. Right Click on the definition and click ![info](https://datashapes.files.wordpress.com/2020/05/fileinfo.png?)  
 
 ![](https://datashapes.files.wordpress.com/2020/05/fileinfosteps.png?)
 

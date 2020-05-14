@@ -19,7 +19,7 @@ In the Hub settings, you can specify which user gets access to it's content. The
 
 ![User Settings of a Hub](https://datashapes.files.wordpress.com/2020/05/usersettings.png?)
 
-**If someone has access to a Hub, they have acces to ALL THE CONTENT OF THE HUB.**
+**If someone has access to a Hub, they have access to ALL THE CONTENT OF THE HUB.**
 
 You can easilly manage the users through this window:
 

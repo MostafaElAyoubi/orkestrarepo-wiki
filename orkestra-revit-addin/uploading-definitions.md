@@ -2,7 +2,7 @@
 
 In order to make definitions available through the Orkestra Online Revit Addin and Orkestra Online Dynamo View Extension, you need to upload them to the platform. There are several ways to do so.
 
-## Uppload definition\(s\) to a Workspace <a id="uppload-definition-s-to-a-workspace"></a>
+## Upload definition\(s\) to a Workspace <a id="uppload-definition-s-to-a-workspace"></a>
 
 ```text
  You need to be an Admin of the Workspace to be able to add definitions to it.
