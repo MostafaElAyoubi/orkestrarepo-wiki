@@ -10,5 +10,7 @@
 
 This space is to report and track issues. It also makes the resources and solutions available to everyone so feel free to search/browse the repo.
 
+⭐ or 👀 the project to stay updated !
+
 All releases can be found under the [release](https://github.com/MostafaElAyoubi/Orkestra_Online/releases) section.
 
