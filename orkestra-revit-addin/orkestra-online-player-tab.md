@@ -10,17 +10,43 @@ The **Online Tab** is represented by this logo : ![online](https://datashapes.fi
 
 In the **Content TreeView**, [Hubs](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub) are represented by a "![hub](https://datashapes.files.wordpress.com/2020/05/cloudi.png?resize=30%2C20)", [Workspaces](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace) are represented by a "![ws](https://datashapes.files.wordpress.com/2020/05/workspace.png?)" and Dynamo definitions by a "![def](https://datashapes.files.wordpress.com/2020/05/definition.png?) ".
 
-## Onine Hub Settings
+## Onine Hub and Workspace Settings
 
 You can access the same "Online Workspaces" window as in the Orkestra Desktop App directly from the settings button of the Online Player Tab of the Revit Addid. You just need to click ![](../.gitbook/assets/settings.PNG):
 
+![Accessing the Online Hub/ Workspace Settings](../.gitbook/assets/online-hub-settings.gif)
 
+From here, you can perform all the settings introduced in the following chapter:
 
-
-
- 
-
-## Online Workspace Settings
+* \*\*\*\*[**What is a Hub**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub)\*\*\*\*
+* \*\*\*\*[**What is a Workspace**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace)\*\*\*\*
 
 ## Playing an Online Definition
+
+The Orkestra Online Player Tab is one of the most powerful things about Orkestra. It works may look like it is doing the same thing as the Local Player Tab but it actually is much more soffisticated:
+
+### The Content:
+
+The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were giver access to through the Orkestra Platform and refreshes automatically giving you constant access to the **latest** [**version** ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/versioning)**of the definitions**.
+
+### The Package Settings
+
+The Online Player Tab **uses the package settings** that were associated to the Hubs and Workspaces and ensures that you have the appropriate dependencies loaded at each run! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch you package environment accordingly with the settings. When it does so, this window appears : 
+
+![Orkestra Automatically Switches Your Packages to Fit The Workspace Settings](../.gitbook/assets/packagesetting.PNG)
+
+This phase take somewhere between a couple of seconds and a couple of minutes, depending on the number of packages you have associated to your Workspace. But it is optimized in a way that it only does so when the package environment needs to be changed. 
+
+```text
+WE STRONGLY ADVISE YOU TO KEEP THE NUMBER OF PACKAGES ASSOCIATED TO A WORKSPACE TO 
+A MINIMUM. Try and reduce that number to what is actually being used in your definitions.
+```
+
+### The Analytics
+
+Whenever a definition is played through the Orkestra Online Player Tab, **some valuable data is pushed to your Orkestra Online database**. That data is what you can see in the [**Analytics**](https://app.gitbook.com/@datashapes/s/orkestra-online/~/drafts/-M7JnFAsI0ehGhuj7hxp/orkestra-desktop-app/analytics/@drafts).
+
+## Using the Search Bar
+
+
 
