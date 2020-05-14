@@ -12,6 +12,8 @@ In the **Content TreeView**, [Hubs](https://datashapes.gitbook.io/orkestra-onlin
 
 ## Onine Hub Settings
 
+You can access the same "Online Workspaces" window as in the Orkestra Desktop App directly from the settings button of the Online Player Tab of the Revit Addid. You just need to click !\[settings\]\([https://datashapes.files.wordpress.com/2020/05/settings.png?](https://datashapes.files.wordpress.com/2020/05/settings.png?resize=107%2C107)\) 
+
 ## Online Workspace Settings
 
 ## Playing an Online Definition
