@@ -43,3 +43,13 @@ The Local Player Tab of the Orkestra Revit Addin is more convenient to use that 
 
 ![](https://datashapes.files.wordpress.com/2020/05/rearrangelocalws.gif?)
 
+### Using the Search Bar
+
+The search bar on the Orkestra Local Player Tab lets you search the content of all your local workspaces. The search is based on the definition names:
+
+ 
+
+![Using the search bar to browse local content](../.gitbook/assets/localsearch.gif)
+
+
+
