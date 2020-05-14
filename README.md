@@ -2,7 +2,7 @@
 
 ![](https://datashapes.files.wordpress.com/2020/04/orkestrafull_beta.png?w=2000)
 
-[![version](https://img.shields.io/badge/version-0.1.7-blue.svg)](https://github.com/MostafaElAyoubi/Orkestra_Online/releases) [![GitHub issues open](https://img.shields.io/github/issues/MostafaElAyoubi/Orkestra_Online.svg?)](https://github.com/MostafaElAyoubi/Orkestra_Online/issues) [![GitHub issues closed](https://img.shields.io/github/issues-closed/MostafaElAyoubi/Orkestra_Online.svg?)](https://github.com/MostafaElAyoubi/Orkestra_Online/issues?q=is%3Aissue+is%3Aclosed)
+ [![version](https://camo.githubusercontent.com/dcd8aca391a9e9d044bb88d510d5e6fd1c397e67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d302e312e382d626c75652e737667)](https://github.com/MostafaElAyoubi/Orkestra_Online/releases)[![GitHub issues open](https://img.shields.io/github/issues/MostafaElAyoubi/Orkestra_Online.svg?)](https://github.com/MostafaElAyoubi/Orkestra_Online/issues) [![GitHub issues closed](https://img.shields.io/github/issues-closed/MostafaElAyoubi/Orkestra_Online.svg?)](https://github.com/MostafaElAyoubi/Orkestra_Online/issues?q=is%3Aissue+is%3Aclosed)
 
 ## Orkestra Online
 
