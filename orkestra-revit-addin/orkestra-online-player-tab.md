@@ -16,18 +16,18 @@ You can access the same "Online Workspaces" window as in the Orkestra Desktop Ap
 
 ![Accessing the Online Hub/ Workspace Settings](../.gitbook/assets/online-hub-settings.gif)
 
-From here, you can perform all the settings introduced in the following chapter:
+From here, you can perform all the settings introduced in the following chapters:
 
 * \*\*\*\*[**What is a Hub**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub)\*\*\*\*
 * \*\*\*\*[**What is a Workspace**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace)\*\*\*\*
 
 ## Playing an Online Definition
 
-The Orkestra Online Player Tab is one of the most powerful things about Orkestra. It works may look like it is doing the same thing as the Local Player Tab but it actually is much more soffisticated:
+The Orkestra Online Player Tab is **one of the most powerful things about Orkestra**. It may look like it is doing the same thing as the Local Player Tab but it actually is much more soffisticated:
 
 ### The Content
 
-The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were giver access to through the Orkestra Platform and refreshes automatically giving you constant access to the **latest** [**version** ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/versioning)**of the definitions**.
+The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the Orkestra Platform. Refreshes automatically at login \(or by pressing ![](../.gitbook/assets/refresh.png)\), giving you constant access to the **latest** [**version** ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/versioning)**of the definitions**.
 
 ![Direct Access to You Online Content Directly Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
 
