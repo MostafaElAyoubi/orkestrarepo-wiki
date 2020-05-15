@@ -6,7 +6,7 @@ One of the most powerful things in Orkestra Online is how it makes **documenting
 
 ## Definitions Metadata
 
-There is a lot of information associated to the definition when it's on the Orkestra Online platform. Some of that metadata is generated and updated automatically, making it fully reliable. Some other types of information are to be entered by the creator of the definition to better communicate with the users.
+There is a lot of information associated to the definition when it's on the Orkestra Online platform. Some of that metadata is generated and updated automatically, making it fully reliable. Some other types of information are to be entered by the creator of the definition to better communicate with users.
 
 ### Version
 
@@ -48,33 +48,39 @@ A definition name is not always enough to understand exactlyy what a definition 
 
 ## Associate Documentation to a Definitions
 
-Key Workds and Descriptions are great. But most of the times a picture or a video speaks a thousand words. Thats why you can also associate Documentation Files of all kinds to the definitions. They are very easilly reachable through the Properties Pannel as clickable hyperlinks. Clicking on a file in the list will download and open it:
+Key Words and Descriptions are great. But most of the times, as the saying goes, a picture \(or a video\) is worth a thousand words. Thats why you can also associate Documentation Files of all kinds to the definitions. They are stored as clickable hyperlinks in the Properties Panel . Clicking on a file in the list will download and open it:
 
 ### Associate a Documentation File to a definition
 
-In order to associate a Documentation to a definition, you must: 1. Right Click on the definition and click ![info](https://datashapes.files.wordpress.com/2020/05/fileinfo.png?) 
+To associate a Documentation to a definition, you must: 
+
+1. Right Click on the definition and click ![info](https://datashapes.files.wordpress.com/2020/05/fileinfo.png?) 
 
 ![](https://datashapes.files.wordpress.com/2020/05/fileinfosteps.png?)
 
     2. Click ![addDocu](https://datashapes.files.wordpress.com/2020/05/adddoc.png?) 
 
-   3. Browse to your Documentation File and confirm  4. The Documentation File will appear on the list with the name of the person who uploaded it and the date of the latest update. 
+   3. Browse to your Documentation File and confirm  
 
 ![](https://datashapes.files.wordpress.com/2020/05/browsedoc.png?)
+
+4. The Documentation File will appear on the list with the name of the person who uploaded it and the date of the latest update. 
 
 ![](https://datashapes.files.wordpress.com/2020/05/uploadeddoc.png?)
 
 ```diff
-Note that Documentation File have a size limit of 5mb, and there is a total of 25mb of Documentation Files per definition
+Please note there is a 5mb size limit per uploaded file and a total limit of 25mb of Documentation Files per definition
 ```
 
 ### Updating a Documentation File
 
-Every Time a Documentation File is updated, the informations about the latest update date and time as well as the name of the updated are automatically updated. In order to Update a Documentation File, all you have to do is upload the updated Document. It will automatically override the pre-existing version on the platform.
+Every Time a Documentation File is updated, the informations about the latest update date and time as well as the name of the updated are automatically updated. To Update a Documentation File, all you have to do is upload the updated Document. It will automatically override the pre-existing version on the platform.
 
 ### Deleting a Documentation File
 
-In order to deletea Documentation associated to a definition, you must: 1. Right Click on the definition and click ![info](https://datashapes.files.wordpress.com/2020/05/fileinfo.png?) 
+To delete a Documentation associated to a definition, you must: 
+
+1. Right Click on the definition and click ![info](https://datashapes.files.wordpress.com/2020/05/fileinfo.png?) 
 
 ![infosteps](https://datashapes.files.wordpress.com/2020/05/fileinfosteps.png?)
 
@@ -82,7 +88,7 @@ In order to deletea Documentation associated to a definition, you must: 1. Right
 
 ## Automated Graph and Background SnapShots
 
-When uploaded through the [**Orkestra Online Dynamo View Extension**](../orkestra-dynamo-view-extension/orkestra-view-extension-online-tab.md), definitions can have automatically generated snapshots of the graph and the background geometry associated to them. When those snapshots are available, they can be visualized \(if you're an admin of the Workspace containing the definition\) from the Properties Pannel : 
+When uploaded through the [**Orkestra Online Dynamo View Extension**](../orkestra-dynamo-view-extension/orkestra-view-extension-online-tab.md), definitions can have automatically generated snapshots of the graph and the background geometry associated to them. When those snapshots are available, they can be visualized \(if you're an admin of the Workspace containing the definition\) from the Properties Panel : 
 
 ![](https://datashapes.files.wordpress.com/2020/05/snaps.gif?)
 
