@@ -14,5 +14,5 @@ By default, the Orkestra Tab on your Revit Ribbon contains three PushButtons:
 
 * The **Borwser** button opens the Orkestra Dockable Pane that contains all the functionalities.
 * The **Wiki** button will take you to this wiki.
-* The **Report Issue** button will take you to the [issues page](https://github.com/MostafaElAyoubi/Orkestra_Online/issues) of the Orkestra Online Github repository.
+* The **Report Issue** button will take you to the [**issues page**](https://github.com/MostafaElAyoubi/Orkestra_Online/issues) of the Orkestra Online Github repository.
 

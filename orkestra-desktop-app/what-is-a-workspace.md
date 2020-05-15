@@ -56,7 +56,7 @@ An **admin** will be able to edit all settings of the Workspace and will also be
 
 ## Package Settings
 
-The Workspace settings also let you sync a set of packages to be used for definitions located inside that Workspace. This means that when a script is launched through the [Orkestra Online Tab of the Orkestra Revit Addin](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Online-Player-Tab), Orkestra switches the package environment automatically to match the parent Workspace's package settings. This lets you set the exact package versions that are required for your definitions, which makes deploying your content much easier and safer.
+The Workspace settings also let you sync a set of packages to be used for definitions located inside that Workspace. This means that when a script is launched through the ****[**Orkestra Online Player Tab of the Orkestra Revit Addin**](../orkestra-revit-addin/orkestra-online-player-tab.md), Orkestra switches the package environment automatically to match the parent Workspace's package settings. This lets you set the exact package versions that are required for your definitions, which makes deploying your content much easier and safer.
 
 By default, the Hub settings are inherited. The list of packages is greyed out and the sync button is disabled. If you wish to set specific package settings for a Workspace, you first need to Override the Hub settings by switching on the ![override](https://datashapes.files.wordpress.com/2020/05/overridehubsettings.png?) toggle and confirm that you want to override the settings.
 

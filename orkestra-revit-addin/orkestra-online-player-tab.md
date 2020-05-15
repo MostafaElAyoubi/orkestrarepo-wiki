@@ -27,7 +27,7 @@ The Orkestra Online Player Tab is **one of the most powerful things about Orkest
 
 ### The Content
 
-The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login \(or by pressing ![](../.gitbook/assets/refresh.png)\), giving you constant access to the **latest** [**version** ](versioning.md)**of the definitions**.
+The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login \(or by pressing ![](../.gitbook/assets/refresh.png)\), giving you constant access to the **latest** [**version** ]()**of the definitions**.
 
 ![Direct Access to You Online Content Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
 
@@ -47,13 +47,13 @@ in your definitions. This will make the package environment shift much faster.
 
 ### The Analytics
 
-Whenever a definition is played through the Orkestra Online Player Tab, **some valuable data is pushed to your Orkestra Online database**. That data is what you can see in the[ **Analytics**](analytics.md).
+Whenever a definition is played through the Orkestra Online Player Tab, **some valuable data is pushed to your Orkestra Online database**. That data is what you can see in the[ **Analytics**](../orkestra-desktop-app/analytics.md).
 
 ### The Security
 
 When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Worspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. **The content is streamed**, securing the integrity of your work.
 
-People who have "**admin**" access to your content ill be able to download it, ****[**modify it's metadata and associated documentation**](definition-metadata-and-documentation.md#introduction), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
+People who have "**admin**" access to your content ill be able to download it, ****[**modify it's metadata and associated documentation**](../orkestra-desktop-app/definition-metadata-and-documentation-1.md), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
 
 ## Using the Search Bar
 

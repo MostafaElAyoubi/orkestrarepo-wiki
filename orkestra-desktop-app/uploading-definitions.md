@@ -44,9 +44,9 @@ You need to be an Admin of the Hub to be able to add a folder structure containi
 
 ## Upload a local definition from the Local Tab of the Orkestra Revit Addin
 
-You can upload definitions locally using the [Local Tab of the Orkestra Revit Addin](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Local-Player-Tab).
+You can upload definitions locally using the [**Local Player Tab of the Orkestra Revit Addin**](../orkestra-revit-addin/orkestra-local-player-tab.md#uploading-a-local-definition-to-an-online-workspace)**.**
 
 ## Upload a definition through the Orkestra Online Dynamo View Extension
 
-You can push a definition to Orkestra right from Dynamo using the [Orkestra Online Dynamo View Extension](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Dynamo-View-Extension-:-Uploading-Definitions).
+You can push a definition to Orkestra right from Dynamo using the [**Orkestra Online Dynamo View Extension**](../orkestra-dynamo-view-extension/orkestra-view-extension-local-tab.md).
 

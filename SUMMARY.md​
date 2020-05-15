@@ -22,11 +22,6 @@
 * [Orkestra Online Player Tab](orkestra-revit-addin/orkestra-online-player-tab.md)
 * [Online QuickAccesses](orkestra-revit-addin/online-quickaccesses.md)
 * [PlayLists](orkestra-revit-addin/playlists.md)
-* [Syncing a Package Folder](orkestra-revit-addin/syncing-a-package-folder.md)
-* [Uploading Definitions to the Orkestra Online Platform](orkestra-revit-addin/uploading-definitions.md)
-* [Definition MetaData and Documentation](orkestra-revit-addin/definition-metadata-and-documentation.md)
-* [Versioning](orkestra-revit-addin/versioning.md)
-* [Analytics](orkestra-revit-addin/analytics.md)
 
 ## Orkestra Dynamo View Extension
 
@@ -34,10 +29,8 @@
 * [LogIn](orkestra-dynamo-view-extension/login.md)
 * [Orkestra View Extension Local Tab](orkestra-dynamo-view-extension/orkestra-view-extension-local-tab.md)
 * [Orkestra View Extension Online Tab](orkestra-dynamo-view-extension/orkestra-view-extension-online-tab.md)
-* [Uploading Definitions](orkestra-dynamo-view-extension/uploading-definitions.md)
+* [Pushing Definitions to Orkestra](orkestra-dynamo-view-extension/pushing-definitions-to-orkestra.md)
 * [OrkestraGIT](orkestra-dynamo-view-extension/orkestragit.md)
-* [Versioning](orkestra-dynamo-view-extension/versioning.md)
-* [Definition MetaData and Documentation](orkestra-dynamo-view-extension/definition-metadata-and-documentation.md)
 
 ## Orkestra Dynamo Package
 

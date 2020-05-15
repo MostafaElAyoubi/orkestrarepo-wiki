@@ -1,6 +1,6 @@
 # Analytics
 
-Everytime a definition is played through the **Orkestra Online Tab of the Orkestra Revit Addin**, some data is pushed to the platform. That data can be analysed directly from Orkestra in the **Analytics** window.
+Everytime a definition is played through the[ **Orkestra Online Player Tab of the Orkestra Revit Addin**](../orkestra-revit-addin/orkestra-online-player-tab.md), some data is pushed to the platform. That data can be analysed directly from Orkestra in the **Analytics** window.
 
 ## The Charts
 

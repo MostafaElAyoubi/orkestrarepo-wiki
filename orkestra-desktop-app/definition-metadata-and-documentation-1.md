@@ -82,7 +82,7 @@ In order to deletea Documentation associated to a definition, you must: 1. Right
 
 ## Automated Graph and Background SnapShots
 
-When uploaded through the [Orkestra Online Dynamo View Extension](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Dynamo-View-Extension-:-Uploading-Definitions), definitions can have automatically generated snapshots of the graph and the background geometry associated to them. When those snapshots are available, they can be visualized \(if you're an admin of the Workspace containing the definition\) from the Properties Pannel : 
+When uploaded through the [**Orkestra Online Dynamo View Extension**](../orkestra-dynamo-view-extension/orkestra-view-extension-online-tab.md), definitions can have automatically generated snapshots of the graph and the background geometry associated to them. When those snapshots are available, they can be visualized \(if you're an admin of the Workspace containing the definition\) from the Properties Pannel : 
 
 ![](https://datashapes.files.wordpress.com/2020/05/snaps.gif?)
 

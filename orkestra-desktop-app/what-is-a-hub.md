@@ -48,7 +48,7 @@ You can easilly manage the users through this window:
 
 ## Package Settings
 
-The Hub settings also let you sync a set of packages to be used for definitions located inside that Hub. That means that when played through the [Orkestra Online Tab of the Orkestra Revit Addin](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/Orkestra-Online-Player-Tab), Orkestra switches the package environment automatically accordingly with the those settings. This lets you set the exact package versions that are required for your definitions, which makes deploying your content much easier and safer.
+The Hub settings also let you sync a set of packages to be used for definitions located inside that Hub. That means that when played through the ****[**Orkestra Online Player Tab of the Orkestra Revit Addin**](../orkestra-revit-addin/orkestra-online-player-tab.md), Orkestra switches the package environment automatically accordingly with the those settings. This lets you set the exact package versions that are required for your definitions, which makes deploying your content much easier and safer.
 
 ![Package Settings of a Hub](https://datashapes.files.wordpress.com/2020/05/packagesettings-1.png?)
 
