@@ -53,7 +53,7 @@ Whenever a definition is played through the Orkestra Online Player Tab, **some v
 
 When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Worspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. **The content is streamed**, securing the integrity of your work.
 
-People who have "**admin**" access to your content ill be able to download it, [modify it's metadata and associated documentation](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/definition-metadata-and-documentation-1), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
+People who have "**admin**" access to your content ill be able to download it,[ **modify it's metadata and associated documentation**](https://datashapes.gitbook.io/orkestra-online/orkestra-revit-addin/definition-metadata-and-documentation#introduction), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
 
 ## Using the Search Bar
 
