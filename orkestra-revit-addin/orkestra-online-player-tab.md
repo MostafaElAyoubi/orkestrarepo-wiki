@@ -1,6 +1,6 @@
 # Orkestra Online Player Tab
 
-The **Online Player Tab of the Orkestra Revit Addin** is a Player that takes your online[ Hub ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub)and [Workspace](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace) settings into account when playing a definition. It lets you navigate and use all the online content that you have access to. **In order to enable the Online Player Tab, you need to** [**login**](https://datashapes.gitbook.io/orkestra-online/orkestra-revit-addin/login) **to your Orkestra Online account**.
+The **Online Player Tab of the Orkestra Revit Addin** is a Player that takes your online[ **Hub** ](../orkestra-desktop-app/what-is-a-hub.md)and [**Workspace**](../orkestra-desktop-app/what-is-a-workspace.md) ****settings into account when playing a definition. It lets you navigate and use all the online content that you have access to. **In order to enable the Online Player Tab, you need to** [**login**](login.md) **to your Orkestra Online account**.
 
 The **Online Tab** is represented by this logo : ![online](https://datashapes.files.wordpress.com/2020/05/onlineicon.png?)
 
@@ -8,7 +8,7 @@ The **Online Tab** is represented by this logo : ![online](https://datashapes.fi
 
 ![](https://datashapes.files.wordpress.com/2020/05/onlinetabanatomy.png?)
 
-In the **Content TreeView**, [Hubs](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub) are represented by a "![hub](https://datashapes.files.wordpress.com/2020/05/cloudi.png?resize=30%2C20)", [Workspaces](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace) are represented by a "![ws](https://datashapes.files.wordpress.com/2020/05/workspace.png?)" and Dynamo definitions by a "![def](https://datashapes.files.wordpress.com/2020/05/definition.png?) ".
+In the **Content TreeView**, [**Hubs**](../orkestra-desktop-app/what-is-a-hub.md) are represented by a "![hub](https://datashapes.files.wordpress.com/2020/05/cloudi.png?resize=30%2C20)", [**Workspaces**](../orkestra-desktop-app/what-is-a-workspace.md) are represented by a "![ws](https://datashapes.files.wordpress.com/2020/05/workspace.png?)" and Dynamo definitions by a "![def](https://datashapes.files.wordpress.com/2020/05/definition.png?) ".
 
 ## Onine Hub and Workspace Settings
 
@@ -18,8 +18,8 @@ You can access the same "Online Workspaces" window as in the Orkestra Desktop Ap
 
 From here, you can perform all the settings introduced in the following chapters:
 
-* \*\*\*\*[**What is a Hub**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-hub)\*\*\*\*
-* \*\*\*\*[**What is a Workspace**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace)\*\*\*\*
+* \*\*\*\*[**What is a Hub**](../orkestra-desktop-app/what-is-a-hub.md)\*\*\*\*
+* \*\*\*\*[**What is a Workspace**](../orkestra-desktop-app/what-is-a-workspace.md)\*\*\*\*
 
 ## Playing an Online Definition
 
@@ -27,13 +27,13 @@ The Orkestra Online Player Tab is **one of the most powerful things about Orkest
 
 ### The Content
 
-The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the Orkestra Platform. Refreshes automatically at login \(or by pressing ![](../.gitbook/assets/refresh.png)\), giving you constant access to the **latest** [**version** ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/versioning)**of the definitions**.
+The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login \(or by pressing ![](../.gitbook/assets/refresh.png)\), giving you constant access to the **latest** [**version** ](versioning.md)**of the definitions**.
 
 ![Direct Access to You Online Content Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
 
 ### The Package Settings
 
-The Online Player Tab [**uses the package settings**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace#package-settings) that were associated to the Hubs and Workspaces and **ensures that you have the appropriate dependencies loaded at each run**! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch your package environment accordingly with the settings. When it does so, this window appears : 
+The Online Player Tab [**uses the package settings**](../orkestra-desktop-app/what-is-a-workspace.md#package-settings) that were associated to the Hubs and Workspaces and **ensures that you have the appropriate dependencies loaded at each run**! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch your package environment accordingly with the settings. When it does so, this window appears : 
 
 ![Orkestra Automatically Switches Your Packages to Fit the Workspace Settings](../.gitbook/assets/packagesetting.PNG)
 
@@ -47,13 +47,13 @@ in your definitions. This will make the package environment shift much faster.
 
 ### The Analytics
 
-Whenever a definition is played through the Orkestra Online Player Tab, **some valuable data is pushed to your Orkestra Online database**. That data is what you can see in the [**Analytics**](https://app.gitbook.com/@datashapes/s/orkestra-online/~/drafts/-M7JnFAsI0ehGhuj7hxp/orkestra-desktop-app/analytics/@drafts).
+Whenever a definition is played through the Orkestra Online Player Tab, **some valuable data is pushed to your Orkestra Online database**. That data is what you can see in the[ **Analytics**](analytics.md).
 
 ### The Security
 
 When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Worspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. **The content is streamed**, securing the integrity of your work.
 
-People who have "**admin**" access to your content ill be able to download it,[ **modify it's metadata and associated documentation**](https://datashapes.gitbook.io/orkestra-online/orkestra-revit-addin/definition-metadata-and-documentation#introduction), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
+People who have "**admin**" access to your content ill be able to download it, ****[**modify it's metadata and associated documentation**](definition-metadata-and-documentation.md#introduction), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
 
 ## Using the Search Bar
 
