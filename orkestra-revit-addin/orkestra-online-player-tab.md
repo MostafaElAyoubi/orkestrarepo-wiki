@@ -29,20 +29,20 @@ The Orkestra Online Player Tab is **one of the most powerful things about Orkest
 
 The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the Orkestra Platform. Refreshes automatically at login \(or by pressing ![](../.gitbook/assets/refresh.png)\), giving you constant access to the **latest** [**version** ](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/versioning)**of the definitions**.
 
-![Direct Access to You Online Content Directly Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
+![Direct Access to You Online Content Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
 
 ### The Package Settings
 
-The Online Player Tab [**uses the package settings**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace#package-settings) that were associated to the Hubs and Workspaces and ensures that you have the appropriate dependencies loaded at each run! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch you package environment accordingly with the settings. When it does so, this window appears : 
+The Online Player Tab [**uses the package settings**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace#package-settings) that were associated to the Hubs and Workspaces and **ensures that you have the appropriate dependencies loaded at each run**! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch your package environment accordingly with the settings. When it does so, this window appears : 
 
-![Orkestra Automatically Switches Your Packages to Fit The Workspace Settings](../.gitbook/assets/packagesetting.PNG)
+![Orkestra Automatically Switches Your Packages to Fit the Workspace Settings](../.gitbook/assets/packagesetting.PNG)
 
-This phase take somewhere between a couple of seconds and a couple of minutes, depending on the number of packages you have associated to your Workspace. But it is optimized in a way that it only does so when the package environment needs to be changed. This solves one of the most challenging problems of deploying Dynamo content at a large scale. 
+This phase takes somewhere between a couple of seconds and a couple of minutes, depending on the number of packages you have associated to your Workspace. With a reasonable amount of packages, it shouldn't take more than 15 seconds. But it is optimized in a way that it only does so when the package environment needs to be changed. **This solves one of the most challenging problems of deploying Dynamo content at a large scale**. 
 
 ```text
 WE STRONGLY ADVISE YOU TO KEEP THE NUMBER OF PACKAGES ASSOCIATED TO A WORKSPACE TO 
-A MINIMUM. Try and reduce that number to what is actually being used in your 
-definitions. This will make the package environment shift much faster.
+A MINIMUM (5 or less). Try and reduce that number to what is actually being used 
+in your definitions. This will make the package environment shift much faster.
 ```
 
 ### The Analytics
@@ -51,9 +51,9 @@ Whenever a definition is played through the Orkestra Online Player Tab, **some v
 
 ### The Security
 
-When you deploy content through Orkestra Online, you decide the level of access you give to your users. If you grant people "user" access to a Worspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. The content is streamed, securing the integrity of your work.
+When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Worspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. **The content is streamed**, securing the integrity of your work.
 
-People who have "admin" access to your content ill be able to download it, [modify it's metadata and associated documentation](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/definition-metadata-and-documentation-1), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
+People who have "**admin**" access to your content ill be able to download it, [modify it's metadata and associated documentation](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/definition-metadata-and-documentation-1), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
 
 ## Using the Search Bar
 
