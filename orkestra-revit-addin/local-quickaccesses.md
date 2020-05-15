@@ -1,10 +1,10 @@
 # Local QuickAccesses
 
-## Setting Local QuickAccesses
+## Setting Local Quick Accesses
 
 Local QuickAccesses are push buttons that let you play a Dynamo definition right from the Revit ribbon.
 
-### Adding a Local QuickAccess
+### Adding a Local Quick Access
 
 * **Through the Settings Window**
 

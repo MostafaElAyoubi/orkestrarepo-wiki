@@ -8,9 +8,9 @@ The **Online Tab** is represented by this logo : ![online](https://datashapes.fi
 
 ![](https://datashapes.files.wordpress.com/2020/05/onlinetabanatomy.png?)
 
-In the **Content TreeView**, [**Hubs**](../orkestra-desktop-app/what-is-a-hub.md) are represented by a "![hub](https://datashapes.files.wordpress.com/2020/05/cloudi.png?resize=30%2C20)", [**Workspaces**](../orkestra-desktop-app/what-is-a-workspace.md) are represented by a "![ws](https://datashapes.files.wordpress.com/2020/05/workspace.png?)" and Dynamo definitions by a "![def](https://datashapes.files.wordpress.com/2020/05/definition.png?) ".
+In the **Content TreeView**, [**Hubs**](../orkestra-desktop-app/what-is-a-hub.md) are represented by a "![hub](https://datashapes.files.wordpress.com/2020/05/cloudi.png?resize=30%2C20)", [**Workspaces**](../orkestra-desktop-app/what-is-a-workspace.md) are represented by a "![ws](https://datashapes.files.wordpress.com/2020/05/workspace.png?)" , and Dynamo definitions by a "![def](https://datashapes.files.wordpress.com/2020/05/definition.png?) ".
 
-## Onine Hub and Workspace Settings
+## Online Hub and Workspace Settings
 
 You can access the same "Online Workspaces" window as in the Orkestra Desktop App directly from the settings button of the Online Player Tab of the Revit Addin. You just need to click ![](../.gitbook/assets/settings.PNG):
 
@@ -23,7 +23,7 @@ From here, you can perform all the settings introduced in the following chapters
 
 ## Playing an Online Definition
 
-The Orkestra Online Player Tab is **one of the most powerful things about Orkestra**. It may look like it is doing the same thing as the Local Player Tab but it actually is much more soffisticated:
+The Orkestra Online Player Tab is **one of the most powerful things about Orkestra**. It may look like it is doing the same thing as the Local Player Tab but it actually is much more sophisticated.
 
 ### The Content
 
@@ -51,13 +51,13 @@ Whenever a definition is played through the Orkestra Online Player Tab, **some v
 
 ### The Security
 
-When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Worspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. **The content is streamed**, securing the integrity of your work.
+When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Workspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. **The content is streamed**, securing the integrity of your work.
 
-People who have "**admin**" access to your content ill be able to download it, ****[**modify it's metadata and associated documentation**](../orkestra-desktop-app/definition-metadata-and-documentation-1.md), and open directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
+People who have "**admin**" access to your content will be able to download it, ****[**modify its metadata and associated documentation**](../orkestra-desktop-app/definition-metadata-and-documentation-1.md), and open it directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
 
 ## Using the Search Bar
 
-The search bar on the Online Player Tab lets you search among the Online. It doesn' only use the definition names but also their key words, making it much more efficient! This search method, associated with the advanced metadata and documentation makes deployment much easier. 
+The search bar in the Online Player Tab lets you search definitions stored online. It doesn't only use the definition names but also their key words, making it much more efficient! This search method, associated with the advanced metadata and documentation, makes deployment much easier. 
 
 
 

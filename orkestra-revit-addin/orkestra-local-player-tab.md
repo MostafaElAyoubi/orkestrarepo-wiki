@@ -1,6 +1,8 @@
 # Orkestra Local Player Tab
 
-The **Local Player Tab of the Orkestra Revit Addin** is basically a Dynamo Player. **It does not require you to log in to Orkestra** or even have an internet connexion and lets you **play definitions that are located on your computer** or your server using your **local package settings**.
+The **Local Player Tab of the Orkestra Revit Addin** is basically a Dynamo Player. 
+
+**It does not require you to log in to Orkestra** or even have an internet connexion. It lets you **play definitions that are located on your computer** or your server using your **local package settings**.
 
 The **Local Tab** is represented by this logo : ![local](https://datashapes.files.wordpress.com/2020/05/localicon.png?)
 
@@ -39,13 +41,13 @@ The Local Player Tab of the Orkestra Revit Addin is more convenient to use that 
 
 ![Removing a Local Workspace Through the Context Menu](https://datashapes.files.wordpress.com/2020/05/removelocalworkspacerightclick.gif?)
 
-### Rearranging Local Workspaces
+### Re-arranging Local Workspaces
 
 ![](https://datashapes.files.wordpress.com/2020/05/rearrangelocalws.gif?)
 
 ### Using the Search Bar
 
-The search bar on the Orkestra Local Player Tab lets you search the content of all your local workspaces. The search is based on the definition names:
+The search bar on the Orkestra Local Player Tab lets you search the content of all your local workspaces. The search is based on definition names:
 
 ![Using the search bar to browse local content](../.gitbook/assets/localsearch.gif)
 
