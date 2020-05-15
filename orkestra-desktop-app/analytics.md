@@ -10,7 +10,7 @@ Everytime a definition is played through the[ **Orkestra Online Player Tab of th
 
 ![Usage Per User Grouped By Definition](https://datashapes.files.wordpress.com/2020/05/usageperusergroupedbydefinitions.png?)
 
-#### Groupes By User
+#### Groups By User
 
 ![Usage Per User Grouped By User](https://datashapes.files.wordpress.com/2020/05/usageperusergroupedbyuser.png?)
 
@@ -36,7 +36,7 @@ The Success Rate Gauge lets you monitor how your content is performing. Whenever
 
 ### Software Version Charts
 
-The version of Dynamo and Revit are also pushed to the platform at each run. 
+Dynamo and Revit versions are also pushed to the platform at each run. 
 
 ![Software Versions](https://datashapes.files.wordpress.com/2020/05/softwareversions.png?)
 
