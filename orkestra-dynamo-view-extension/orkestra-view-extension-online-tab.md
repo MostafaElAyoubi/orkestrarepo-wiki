@@ -23,6 +23,10 @@ From here, you can perform all the settings introduced in the following chapters
 
 The Online Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/what-is-a-workspace#user-settings) of the Orkestra Platform. It Refreshes automatically at login \(or by pressing ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M6wDJF-clP9xeoy68-u%2F-M7MBaTVF91R1cues6Ta%2F-M7MBw87aS83bjeSU0f3%2Frefresh.png?alt=media&token=b79af11e-3972-41e9-a3a9-1bcbddc01dbe)\), giving you constant access to the **latest** [**version**](https://datashapes.gitbook.io/orkestra-online/orkestra-desktop-app/versioning) **of the definitions**.
 
+### The Versions
+
+### The Metadata
+
 ### The Security <a id="the-security"></a>
 
 When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Workspace, they won't be able to open or modify it and it is never downloaded in their computers.
