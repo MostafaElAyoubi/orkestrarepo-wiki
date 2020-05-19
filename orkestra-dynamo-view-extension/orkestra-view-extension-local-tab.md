@@ -74,6 +74,12 @@ The Orkestra View Extension Local Tab offers an easy way to upload definitions t
 
   5.  Once you've checked the  appropriate options and selected the Orkestra Online Workspace you wish to upload your definition to, click ![](../.gitbook/assets/add.png).
 
+```text
+If you open an online definition, modify it and push it back to the same Workspace,
+it will automatically be considered as the latest version of this definition. 
+Older versions will still be accessible through the definition history. 
+```
+
 
 
 ## Opening a Local Definition
