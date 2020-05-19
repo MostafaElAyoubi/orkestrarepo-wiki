@@ -59,7 +59,7 @@ The search bar on the Orkestra View Extension Local Tab lets you search the cont
 
 The Orkestra View Extension Local Tab offers an easy way to upload definitions to your online workspaces. You can :
 
-1. Open a definition in Dynamo and press ​ ![](../.gitbook/assets/pushtoorkestra.png) 
+1. Open a definition in Dynamo/ save the one you are working on and press :​ ![](../.gitbook/assets/pushtoorkestra.png) 
 2. A window with all the Hubs / Workspaces that you have an admin access to will appear. Select the workspace you wish to upload the definition 
 
 ![Pushing a Local Definition to an Online Workspace](../.gitbook/assets/puchtoorkestra-options.png)
