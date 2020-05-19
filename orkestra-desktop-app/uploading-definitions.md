@@ -48,5 +48,5 @@ You can upload definitions locally using the [**Local Player Tab of the Orkestra
 
 ## Upload a definition through the Orkestra Online Dynamo View Extension
 
-You can push a definition to Orkestra right from Dynamo using the [**Orkestra Online Dynamo View Extension**](../orkestra-dynamo-view-extension/orkestra-view-extension-local-tab.md).
+You can push a definition to Orkestra right from Dynamo using the [**Orkestra Online Dynamo View Extension**](../orkestra-dynamo-view-extension/orkestra-view-extension-local-tab.md#uploading-a-local-definition-to-an-online-workspace).
 

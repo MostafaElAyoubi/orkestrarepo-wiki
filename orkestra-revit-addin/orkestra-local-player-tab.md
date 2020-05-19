@@ -64,5 +64,5 @@ The Orkestra Local Player Tab offers an easy way to upload definitions to your o
   This functionality is only available if you are logged in Orkestra Online!
 ```
 
- 
+##  Playing a Definition
 
