@@ -53,6 +53,10 @@ The search bar on the Orkestra View Extension Local Tab lets you search the cont
 
 ### Uploading a Local Definition to an Online Workspace <a id="uploading-a-local-definition-to-an-online-workspace"></a>
 
+```text
+ This functionality is only available if you are logged in Orkestra Online!
+```
+
 The Orkestra View Extension Local Tab offers an easy way to upload definitions to your online workspaces. You can :
 
 1. Open a definition in Dynamo and press ​ ![](../.gitbook/assets/pushtoorkestra.png) 
