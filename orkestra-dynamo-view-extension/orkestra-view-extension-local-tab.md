@@ -72,7 +72,11 @@ The Orkestra View Extension Local Tab offers an easy way to upload definitions t
 
 
 
-## Opening a Definition
+## Opening a Local Definition
+
+The View Extension Local Tab give you a quick and conveinient access to all your local definitions. Just browse your local workspaces/ use the search bar and double click de definition to open it in Dynamo:  
+
+![](../.gitbook/assets/openlocaldef.gif)
 
 
 
