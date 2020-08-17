@@ -12,7 +12,7 @@ As an administrator, you can [assign packages to a workspace](what-is-a-workspac
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-If you make changes to the package settings, every user who has access to this workspace will see an a button with an alert ison. Hovering over it will let them know which changes have been made :
+If you make changes to the package settings, every user who has access to this workspace will see a button with an alert icon. Hovering over it will let them know which changes have been made :
 
 ![Package Update Alert in the Desktop App](../.gitbook/assets/image%20%289%29.png)
 
