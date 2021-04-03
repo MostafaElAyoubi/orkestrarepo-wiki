@@ -32,14 +32,28 @@
 * [Orkestra View Extension Online Tab](orkestra-dynamo-view-extension/orkestra-view-extension-online-tab.md)
 * [OrkestraGIT](orkestra-dynamo-view-extension/orkestragit.md)
 
-## Orkestra Dynamo Package
+## ORKESTRA CIVIL 3D ADDIN
 
-* [LogIn](orkestra-dynamo-package/login.md)
-* [Nodes](orkestra-dynamo-package/nodes.md)
+* [Introduction](orkestra-civil-3d-addin/introduction.md)
+* [LogIn](orkestra-civil-3d-addin/login.md)
+* [Orkestra Local Player Tab](orkestra-civil-3d-addin/orkestra-local-player-tab.md)
+* [Local QuickAccesses](orkestra-civil-3d-addin/local-quickaccesses.md)
+* [Orkestra Online Player Tab](orkestra-civil-3d-addin/orkestra-online-player-tab.md)
+* [Online QuickAccesses](orkestra-civil-3d-addin/online-quickaccesses.md)
+* [PlayLists](orkestra-civil-3d-addin/playlists.md)
 
 ## ORKESTRA RHINO PLUGIN
 
 * [Introduction](orkestra-rhino-plugin/introduction.md)
+* [LogIn](orkestra-rhino-plugin/login.md)
 * [Orkestra Rhino Local Tab](orkestra-rhino-plugin/orkestrarhinolocaltab.md)
+* [Local QuickAccesses](orkestra-rhino-plugin/local-quickaccesses.md)
 * [Orkestra Rhino Online Tab](orkestra-rhino-plugin/orkestrarhinoonlinetab.md)
+* [Online QuickAccesses](orkestra-rhino-plugin/online-quickaccesses.md)
+* [Grasshopper Plugin Deployment](orkestra-rhino-plugin/grasshopper-plugin-deployment.md)
+
+## Orkestra Dynamo Package
+
+* [LogIn](orkestra-dynamo-package/login.md)
+* [Nodes](orkestra-dynamo-package/nodes.md)
 
