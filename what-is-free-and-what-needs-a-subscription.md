@@ -23,5 +23,6 @@ All the Local features of Orkestra are free to enjoy! This includes:
 ## ![](.gitbook/assets/rhinobwlogoonly.png) In Rhino
 
 * The Local Player in Rhino
-* Local QuickAccesses for Rhino
+
+
 
