@@ -2,7 +2,7 @@
 
 This page is to share a little known fact : Orkestra has a free tier that includes many useful features! 
 
-All the Local features of Orkestra are free to enjoy! This includes:
+Anyone can [download Orkestra](https://www.orkestra.online/orkestra-builds/) and enjoy all the Local features for free! This includes:
 
 ##  ![](.gitbook/assets/revitbwlogoonly.png) In Revit
 
