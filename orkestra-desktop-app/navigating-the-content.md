@@ -10,5 +10,5 @@ Since version 1.1.0, you can filter the content by Software version :
 
 ![Browsing content and filtering by version](../.gitbook/assets/versionbroswsing.gif)
 
-The information about software version is set inside the Workspace Settings, where you can specify the version compatibility. 
+The information about software version is set inside the [Workspace Settings](what-is-a-workspace.md#software-compatibility-settings), where you can specify the version compatibility. 
 
