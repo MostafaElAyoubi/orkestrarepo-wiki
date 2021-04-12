@@ -70,7 +70,7 @@ Once the toggle is switched on, the modifications are enabled for the Workspace:
 
 ![](../.gitbook/assets/overridehubsettings.gif)
 
-#### In order to synchronize a set of packages with your Workspace, you need to : 
+### Synchronizing a set of packages with your Workspace, you need to : 
 
 1. Press the ![syncpackage](https://datashapes.files.wordpress.com/2020/05/synpackages-1.png?) button on the bottom right of the Hub settings window   
 2. Browse to a folder containing the packages you wish to sync with the Hub
@@ -83,7 +83,7 @@ The content of that folder is the Dynamo package folders and must look something
 
 Once the sync if finished, you can see the list of packages and their versions displayed in the Orkestra Hub Settings window.
 
-#### In order to add a single package to the package settings
+### Adding a single package to the package settings
 
 1. Press the ![syncpackage](../.gitbook/assets/image%20%2812%29.png)button 
 2. Browse to to the package folder you wish to add
@@ -95,7 +95,7 @@ OR : simply drag and drop a package folder
 
 ![](../.gitbook/assets/dragdrop-package.gif)
 
-#### In order to remove a single package to the WorkSpace settings
+### Removing a single package to the WorkSpace settings
 
 1. Select the package you wish to remove
 2. Click the ![syncpackage](../.gitbook/assets/image%20%2811%29.png) button
