@@ -102,6 +102,16 @@ OR : simply drag and drop a package folder
 
 ![](../.gitbook/assets/deletesingle-package.gif)
 
+### Software Compatibility Settings
+
+Ever since Orkestra 1.1.0, you can specify the software compatibility of a Workspace. This will have two consequences: 
+
+* You'll be able to filter  your content -based on this informations- while browsing 
+
+![](../.gitbook/assets/versionbroswsing.gif)
+
+* In all Orkestra integrations, the content will be automatically filtered based on the software version you're in. For example, if you're in Revit 2020, you'll only see the werspaces set as compatible with Revit 2020.
+
 ```diff
  A Workspace can contain sub folders, but there are no specific user or package settings at their level
 ```
