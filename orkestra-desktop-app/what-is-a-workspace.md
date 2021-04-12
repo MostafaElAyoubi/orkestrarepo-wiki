@@ -6,7 +6,7 @@ Workspaces are the **first level of subfolders inside a Hub**. A Workspace is a 
 
 1. Select the Hub you wish to add a Workspace to in the **Online Workspaces** window
 2. Press  ![new workspace](https://datashapes.files.wordpress.com/2020/05/addworkspace.png?)
-3. Select a name for your Workspace, selection the version compatibility and confirm by clicking "Create Folder"
+3. Select a name for your Workspace, selection the [version compatibility](what-is-a-workspace.md#software-compatibility-settings) and confirm by clicking "Create Folder"
 
 4. Your new Workspace will appear as a child of the Hub
 
