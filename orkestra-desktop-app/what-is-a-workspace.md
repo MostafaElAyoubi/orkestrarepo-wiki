@@ -102,7 +102,7 @@ OR : simply drag and drop a package folder
 
 ![](../.gitbook/assets/deletesingle-package.gif)
 
-### Software Compatibility Settings
+## Software Compatibility Settings
 
 Ever since Orkestra 1.1.0, you can specify the software compatibility of a Workspace:
 
