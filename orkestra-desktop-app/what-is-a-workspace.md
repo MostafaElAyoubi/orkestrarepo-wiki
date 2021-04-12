@@ -6,13 +6,19 @@ Workspaces are the **first level of subfolders inside a Hub**. A Workspace is a 
 
 1. Select the Hub you wish to add a Workspace to in the **Online Workspaces** window
 2. Press  ![new workspace](https://datashapes.files.wordpress.com/2020/05/addworkspace.png?)
-3. Select a name for your Workspace and confirm by clicking "Create Folder"
+3. Select a name for your Workspace, selection the version compatibility and confirm by clicking "Create Folder"
 
 4. Your new Workspace will appear as a child of the Hub
 
-![](../.gitbook/assets/createworkspace.png)
+![WorkSpace creation interface](../.gitbook/assets/addworkspace.png)
 
 ![](https://datashapes.files.wordpress.com/2020/05/wsadded.png?)
+
+```diff
+The version compatibility is going to help filter the content based on the Revit/Rhino/Civil3D version you're in!
+For example, if a WorkSpace is set as compatible with Revit 2020 only, it's content won't be 
+displayed inside other version of Revit in order to reduce run errors and compatibility issues.
+```
 
 ## To edit the Workspace settings:
 
@@ -25,9 +31,9 @@ Workspaces are the **first level of subfolders inside a Hub**. A Workspace is a 
 
 In the Workspace Settings, you can specify which user gets access to its content. The list of users and their level of access is diplayed here:
 
-![userSettings](https://datashapes.files.wordpress.com/2020/05/wsusers.png?)
+![](../.gitbook/assets/usersettings.png)
 
-**If someone has access to the parent Hub of the Workspace as a Hub Admin, they automatically have acces to the Workspace as well.**
+**If someone has access to the parent Hub of the Workspace as a Hub Admin, they automatically have access to the Workspace as well.**
 
 You can easily manage the users through this window:
 
@@ -52,7 +58,7 @@ An **admin** will be able to edit all settings of the Workspace and will also be
 
 2. Click on ![delUser](https://datashapes.files.wordpress.com/2020/05/updaterole.png?) to update the user role information in the platform 
 
-![](https://datashapes.files.wordpress.com/2020/05/changerole.png?)
+![](../.gitbook/assets/userrole.png)
 
 ## Package Settings
 
@@ -62,9 +68,9 @@ By default, the Hub settings are inherited. The list of packages is greyed out a
 
 Once the toggle is switched on, the modifications are enabled for the Workspace:
 
-![](https://datashapes.files.wordpress.com/2020/05/overriden.png?)
+![](../.gitbook/assets/overridehubsettings.gif)
 
-In order to synchronize a set of packages with your Workspace, you need to : 
+#### In order to synchronize a set of packages with your Workspace, you need to : 
 
 1. Press the ![syncpackage](https://datashapes.files.wordpress.com/2020/05/synpackages-1.png?) button on the bottom right of the Hub settings window   
 2. Browse to a folder containing the packages you wish to sync with the Hub
@@ -76,6 +82,25 @@ The content of that folder is the Dynamo package folders and must look something
 ![](https://datashapes.files.wordpress.com/2020/05/packages-1.png?)
 
 Once the sync if finished, you can see the list of packages and their versions displayed in the Orkestra Hub Settings window.
+
+#### In order to add a single package to the package settings
+
+1. Press the ![syncpackage](../.gitbook/assets/image%20%2812%29.png)button 
+2. Browse to to the package folder you wish to add
+3. Confirm
+
+![](../.gitbook/assets/addsinglepackage.gif)
+
+OR : simply drag and drop a package folder
+
+![](../.gitbook/assets/dragdrop-package.gif)
+
+#### In order to remove a single package to the WorkSpace settings
+
+1. Select the package you wish to remove
+2. Click the ![syncpackage](../.gitbook/assets/image%20%2811%29.png) button
+
+![](../.gitbook/assets/deletesingle-package.gif)
 
 ```diff
  A Workspace can contain sub folders, but there are no specific user or package settings at their level
