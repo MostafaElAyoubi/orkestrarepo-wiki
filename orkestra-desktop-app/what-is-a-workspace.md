@@ -104,7 +104,11 @@ OR : simply drag and drop a package folder
 
 ### Software Compatibility Settings
 
-Ever since Orkestra 1.1.0, you can specify the software compatibility of a Workspace. This will have two consequences: 
+Ever since Orkestra 1.1.0, you can specify the software compatibility of a Workspace:
+
+![Setting the software compatibility for a Workspace](../.gitbook/assets/softwarecompatibilitysettings.gif)
+
+ This will have two consequences: 
 
 * You'll be able to filter  your content -based on this informations- while browsing 
 
