@@ -10,7 +10,7 @@ description: >-
 
 As an administrator, you can [assign packages to a workspace](what-is-a-workspace.md#package-settings), and [grant people access to that workspace](what-is-a-workspace.md#add-users-to-the-workspace) through the Online Workspace Settings window:
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/wssettingswindow.png)
 
 If you make changes to the package settings, every user who has access to this workspace will see a button with an alert icon. Hovering over it will let them know which changes have been made :
 
