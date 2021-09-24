@@ -32,7 +32,7 @@ description: >-
 
 #### 5. Build your custom Dashboards!
 
-![](../.gitbook/assets/orkestrawebapi.gif)
+![](../.gitbook/assets/orkestrawebapi%20%281%29.gif)
 
 ## 
 
