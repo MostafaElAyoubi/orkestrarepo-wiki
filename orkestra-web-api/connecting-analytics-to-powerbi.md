@@ -14,7 +14,7 @@ description: >-
 
 ### In Power BI
 
-#### 1. Go to the opening screen of power and select “Get data from another source”
+#### 1. Go to the opening screen of Power BI and select “Get data from another source”
 
 ![](../.gitbook/assets/1.png)
 
@@ -26,7 +26,7 @@ description: >-
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-#### 4. The response will be automatically recognized and converted to a table by powerBI. You can hit “Close&Apply”
+#### 4. The response will be automatically recognized and converted to a table by Power BI. You can hit “Close&Apply”
 
 ![](../.gitbook/assets/4.png)
 
