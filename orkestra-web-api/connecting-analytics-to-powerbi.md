@@ -22,7 +22,7 @@ description: >-
 
 ![](../.gitbook/assets/2.png)
 
-#### 3. Paste the Url from your clipboard ans hit OK
+#### 3. Paste the Url from your clipboard and hit OK
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
