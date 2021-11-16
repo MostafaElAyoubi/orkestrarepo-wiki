@@ -30,19 +30,19 @@ Everytime a definition is played through the[ **Orkestra Online Player Tab of th
 
 ### Success Rate Gauge
 
-The Success Rate Gauge lets you monitor how your content is performing. Whenever a definition if "run with warnings", the information is puched to the platform and displayed through this chart. 
+The Success Rate Gauge lets you monitor how your content is performing. Whenever a definition if "run with warnings", the information is puched to the platform and displayed through this chart.&#x20;
 
 ![Success Rate Gauge](https://datashapes.files.wordpress.com/2020/05/successrategauge.png?)
 
 ### Software Version Charts
 
-Dynamo and Revit versions are also pushed to the platform at each run. 
+Dynamo and Revit versions are also pushed to the platform at each run.&#x20;
 
 ![Software Versions](https://datashapes.files.wordpress.com/2020/05/softwareversions.png?)
 
 ## Filtering Options
 
-All these charts can be filtered using the built in filtering options. You can - for now - filter the data by [Hub](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/What-is-a-Hub%3F), [Workspace](https://github.com/MostafaElAyoubi/Orkestra_Online/wiki/What-is-a-Workspace) and time period \(from date to date\). Some more filters will be available in the future releases of Orkestra Online. The Filters apply to the charts in real time: 
+All these charts can be filtered using the built in filtering options. You can - for now - filter the data by [Hub](https://github.com/MostafaElAyoubi/Orkestra\_Online/wiki/What-is-a-Hub%3F), [Workspace](https://github.com/MostafaElAyoubi/Orkestra\_Online/wiki/What-is-a-Workspace) and time period (from date to date). Some more filters will be available in the future releases of Orkestra Online. The Filters apply to the charts in real time:&#x20;
 
 ![Live Filtering](https://datashapes.files.wordpress.com/2020/05/analyticsfilters.gif?)
 
@@ -52,10 +52,12 @@ Orkestra also offers some export options allowing you to use this Data as you wi
 
 ### Export as CSV
 
-All the data available for your Hubs and Workspaces can be exported as CSV for use in a third party application for some more advanced exploitation \(PowerBI, Tableau, Excel etc.\). In order to export the data to CSV:
+All the data available for your Hubs and Workspaces can be exported as CSV for use in a third party application for some more advanced exploitation (PowerBI, Tableau, Excel etc.). In order to export the data to CSV:
 
 1. Click ![exportCSV](https://datashapes.files.wordpress.com/2020/05/exportcsv.png?)
-2. Select the destination folder and press **"Export"**:
+2.  Select the destination folder and press **"Export"**:
+
+
 
 ![](https://datashapes.files.wordpress.com/2020/05/exportcsvfolder.png?)
 
@@ -68,7 +70,6 @@ You can also export the charts as PNG by doing the following:
 
 ![](https://datashapes.files.wordpress.com/2020/05/chartselection.png?)
 
-   3. Select a destination folder and press **"Export"**:
+&#x20;  3\. Select a destination folder and press **"Export"**:
 
 ![](https://datashapes.files.wordpress.com/2020/05/exportsteps.png?)
-

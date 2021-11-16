@@ -8,10 +8,10 @@ Every **Orkestra Online** account has an associated "Hub". A Hub is a storage sp
 
 ## To edit the Hub settings:
 
-1. Select the Hub in the "Online Workspaces" window 
+1. Select the Hub in the "Online Workspaces" window&#x20;
 2. Click on ![settings](https://datashapes.files.wordpress.com/2020/05/hub-settings.png?) . This button will only be enabled if your are the owner/ an administrator of the Hub.
 
-![Enterring the Settings of a Hub](https://datashapes.files.wordpress.com/2020/05/hu-settings-_.png?)
+![Enterring the Settings of a Hub](https://datashapes.files.wordpress.com/2020/05/hu-settings-\_.png?)
 
 ## User settings
 
@@ -26,7 +26,7 @@ You can easilly manage the users through this window:
 ### Add users to the Hub
 
 1. Click on ![add](https://datashapes.files.wordpress.com/2020/05/adduser.png?)
-2. Enter the email of the user you wish to add \(they need to have an Orkestra Online account\) and specify their role.
+2. Enter the email of the user you wish to add (they need to have an Orkestra Online account) and specify their role.
 
 ![enteruser](https://datashapes.files.wordpress.com/2020/05/enteruser.png?)
 
@@ -38,7 +38,7 @@ You can easilly manage the users through this window:
 
 ### Delete users from the Hub
 
-1. Select the user to be deleted in the list 
+1. Select the user to be deleted in the list&#x20;
 2. Click on ![delUser](https://datashapes.files.wordpress.com/2020/05/deluser.png?)
 
 ```diff
@@ -48,7 +48,7 @@ You can easilly manage the users through this window:
 
 ## Package Settings
 
-The Hub settings also let you sync a set of packages to be used for definitions located inside that Hub. That means that when played through the ****[**Orkestra Online Player Tab of the Orkestra Revit Addin**](../orkestra-revit-addin/orkestra-online-player-tab.md), Orkestra switches the package environment automatically accordingly with the those settings. This lets you set the exact package versions that are required for your definitions, which makes deploying your content much easier and safer.
+The Hub settings also let you sync a set of packages to be used for definitions located inside that Hub. That means that when played through the** **[**Orkestra Online Player Tab of the Orkestra Revit Addin**](../orkestra-revit-addin/orkestra-online-player-tab.md), Orkestra switches the package environment automatically accordingly with the those settings. This lets you set the exact package versions that are required for your definitions, which makes deploying your content much easier and safer.
 
 ![Package Settings of a Hub](https://datashapes.files.wordpress.com/2020/05/packagesettings-1.png?)
 
@@ -68,4 +68,3 @@ Once the sync if finished, you can see the list of packages and their versions d
  By default, the Package Settings at Hub level are inherited by the Workspaces located inside the Hub.
  But those settings can be overriden at Workspace level.
 ```
-

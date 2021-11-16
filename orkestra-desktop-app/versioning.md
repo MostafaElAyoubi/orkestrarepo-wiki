@@ -4,15 +4,15 @@ The Orkestra Online platform automatically keeps track of all the versions of a 
 
 ## Browse a definition's history
 
-In order to browse a definition's history: 
+In order to browse a definition's history:&#x20;
 
-   1. Selection the definition in the "Online Workspaces" window 
+&#x20;  1\. Selection the definition in the "Online Workspaces" window&#x20;
 
-   2. Right click on it and click ![versionHistory](https://datashapes.files.wordpress.com/2020/05/versionhistory.png?)  
+&#x20;  2\. Right click on it and click ![versionHistory](https://datashapes.files.wordpress.com/2020/05/versionhistory.png?) &#x20;
 
 ![](https://datashapes.files.wordpress.com/2020/05/virsionhistorysteps.png?)
 
-   3. A new window with all the history of the file will open: 
+&#x20;  3\. A new window with all the history of the file will open:&#x20;
 
 ![Definition Version History](https://datashapes.files.wordpress.com/2020/05/dynversion.png?)
 
@@ -31,4 +31,3 @@ You can recover an older version of a definition by selecting it and pressing ![
 ## Checkout a specific version of the definition in Dynamo
 
 You can also checkout any version of a definition right from dynamo using the Orkestra Online Dynamo View Extension.
-
