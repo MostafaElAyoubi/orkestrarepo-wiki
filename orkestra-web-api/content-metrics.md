@@ -7,7 +7,7 @@ description: >-
 
 # Content Metrics
 
-### In OrkestraIn Orkestra
+### In Orkestra
 
 #### 1. Getting your UserKey from the Account section of Orkestra
 
@@ -23,7 +23,7 @@ description: >-
 
 ![](../.gitbook/assets/2.png)
 
-#### 3. Paste the Url from your clipboard and hit OK
+#### 3. In the URL box, do the following
 
 Enter the web request URL : <mark style="color:purple;">**https://api.orkestra.online/listcontent?userKey=**</mark><mark style="color:red;"><</mark><mark style="color:red;">**yourUserKey**</mark><mark style="color:red;">></mark>
 
