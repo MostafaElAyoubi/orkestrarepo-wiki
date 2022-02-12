@@ -1,6 +1,6 @@
 # Orkestra View Extension Local Tab
 
-The **Local Player Tab of the Orkestra Dynamo View Extension** is a very convenient **browser **for definitions located on your computer or on your server.&#x20;
+The **Local Player Tab of the Orkestra Dynamo View Extension** is a very convenient **browser** for definitions located on your computer or on your server.&#x20;
 
 **It does not require you to log in to Orkestra** or even have an internet connexion. It lets you **browse, search and open that are located on your computer** or your server.
 
@@ -23,35 +23,35 @@ The Local Player Tab of the Orkestra Revit Addin is more convenient to use that 
 
     Here is how you can set up your local Workspaces:
 
-### Adding a Local Workspace <a href="adding-a-local-workspace" id="adding-a-local-workspace"></a>
+### Adding a Local Workspace <a href="#adding-a-local-workspace" id="adding-a-local-workspace"></a>
 
 * **Through the Settings Window**
 
 ![Adding a Local Workspace Through the Settings Window](../.gitbook/assets/addwssettings.gif)
 
-* **Right Click action **&#x20;
+* **Right Click action**&#x20;
 
 ![Adding a Local Workspace Through the Context Menu](../.gitbook/assets/addwsrightclick.gif)
 
-### **Removing a Local Workspace** <a href="removing-a-local-workspace" id="removing-a-local-workspace"></a>
+### **Removing a Local Workspace** <a href="#removing-a-local-workspace" id="removing-a-local-workspace"></a>
 
-* **Through the Settings Window **&#x20;
+* **Through the Settings Window**&#x20;
 
 ![Removing a Local Workspace Through the Settings Window](../.gitbook/assets/dellwsettings.gif)
 
-* **Right Click action **&#x20;
+* **Right Click action**&#x20;
 
 ![Removing a Local Workspace Through the Context Menu](../.gitbook/assets/dellrightclick.gif)
 
 ### Re-arranging Local Workspaces
 
-### Using the Search Bar <a href="using-the-search-bar" id="using-the-search-bar"></a>
+### Using the Search Bar <a href="#using-the-search-bar" id="using-the-search-bar"></a>
 
 The search bar on the Orkestra View Extension Local Tab lets you search the content of all your local workspaces. The search is based on definition names: &#x20;
 
 ![Using the Search Bar to Browse Local Content](../.gitbook/assets/searchbarlocal.gif)
 
-### Uploading a Local Definition to an Online Workspace <a href="uploading-a-local-definition-to-an-online-workspace" id="uploading-a-local-definition-to-an-online-workspace"></a>
+### Uploading a Local Definition to an Online Workspace <a href="#uploading-a-local-definition-to-an-online-workspace" id="uploading-a-local-definition-to-an-online-workspace"></a>
 
 ```
  This functionality is only available if you are logged in Orkestra Online!

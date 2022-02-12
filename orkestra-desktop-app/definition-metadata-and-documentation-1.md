@@ -1,6 +1,6 @@
 # Definition MetaData and Documentation
 
-One of the most powerful things in Orkestra Online is how it makes **documenting** and **referencing **a definition convenient. You can associate Metadata to the definitions as well as documentation files of all sorts and centralize that information on the platform.
+One of the most powerful things in Orkestra Online is how it makes **documenting** and **referencing** a definition convenient. You can associate Metadata to the definitions as well as documentation files of all sorts and centralize that information on the platform.
 
 ![](https://datashapes.files.wordpress.com/2020/05/meta-and-doc.gif?)
 

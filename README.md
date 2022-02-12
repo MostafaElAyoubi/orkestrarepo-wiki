@@ -10,6 +10,6 @@
 
 This space is a searchable online documentation that is frequently updated following the development of the service..
 
-⭐ or 👀 the project on [**Github **](https://github.com/MostafaElAyoubi/Orkestra\_Online)to stay updated !
+⭐ or 👀 the project on [**Github** ](https://github.com/MostafaElAyoubi/Orkestra\_Online)to stay updated !
 
 All releases can be found under the [release](https://github.com/MostafaElAyoubi/Orkestra\_Online/releases) section.

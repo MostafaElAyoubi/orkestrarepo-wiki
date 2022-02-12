@@ -34,7 +34,7 @@ All you have to do to create que Workspace is:
 
 1. Select the "Definition" in the list.
 2. Press ![](../.gitbook/assets/addtoqa.png) to add it to the "QuickAccesses" list.
-3. Push the modifications you made to the Orkestra Online Platform by pressing ![](../.gitbook/assets/pushtocloud.png). By doing this, **you make the Online QuickAccess available to**[** every user who has access to this workspace**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)**.**
+3. Push the modifications you made to the Orkestra Online Platform by pressing ![](../.gitbook/assets/pushtocloud.png). By doing this, **you make the Online QuickAccess available to**[ **every user who has access to this workspace**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)**.**
 4. Press ![](../.gitbook/assets/refresh.png) to refresh you Revit Ribbon.
 
 Here is a video of the process: &#x20;
@@ -51,7 +51,7 @@ Deleting an Online QuickAccess can be done by performing the following steps:
 
 1. Select the "QuickAccesses" in the list.
 2. Press ![](../.gitbook/assets/removeqa.png) to move it back to the "Definitions" list.
-3. Push the modifications you made to the Orkestra Online Platform by pressing ![](../.gitbook/assets/pushtocloud.png). By doing this, **you remove the Online QuickAccess for **[**every user who has access to this workspace**.](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)
+3. Push the modifications you made to the Orkestra Online Platform by pressing ![](../.gitbook/assets/pushtocloud.png). By doing this, **you remove the Online QuickAccess for** [**every user who has access to this workspace**.](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)
 4. Press ![](../.gitbook/assets/refresh.png) to refresh you Revit Ribbon.
 
 Here is a video of the process: &#x20;

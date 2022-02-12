@@ -1,6 +1,6 @@
 # Orkestra Online Player Tab
 
-The **Online Player Tab of the Orkestra Revit Addin** is a Player that takes your online[ **Hub **](../orkestra-desktop-app/what-is-a-hub.md)and [**Workspace**](../orkestra-desktop-app/what-is-a-workspace.md)** **settings into account when playing a definition. It lets you navigate and use all the online content that you have access to. **In order to enable the Online Player Tab, you need to **[**login**](login.md)** to your Orkestra Online account**.
+The **Online Player Tab of the Orkestra Revit Addin** is a Player that takes your online[ **Hub** ](../orkestra-desktop-app/what-is-a-hub.md)and [**Workspace**](../orkestra-desktop-app/what-is-a-workspace.md) **** settings into account when playing a definition. It lets you navigate and use all the online content that you have access to. **In order to enable the Online Player Tab, you need to** [**login**](login.md) **to your Orkestra Online account**.
 
 The **Online Tab** is represented by this logo : ![online](https://datashapes.files.wordpress.com/2020/05/onlineicon.png?)
 
@@ -27,7 +27,7 @@ The Orkestra Online Player Tab is **one of the most powerful things about Orkest
 
 ### The Content
 
-The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login (or by pressing ![](../.gitbook/assets/refresh.png)), giving you constant access to the **latest **[**version **](../orkestra-desktop-app/versioning.md)**of the definitions**.
+The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login (or by pressing ![](../.gitbook/assets/refresh.png)), giving you constant access to the **latest** [**version** ](../orkestra-desktop-app/versioning.md)**of the definitions**.
 
 ![Direct Access to You Online Content Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
 
@@ -59,7 +59,7 @@ Whenever a definition is played through the Orkestra Online Player Tab, **some v
 
 When you deploy content through Orkestra Online, you decide the l**evel of access** you give to your users. If you grant people "**user**" access to a Workspace, they will only be able to play it. They wont be able to open or modify it and it is never downloaded in their computers. **The content is streamed**, securing the integrity of your work.
 
-People who have "**admin**" access to your content will be able to download it,** **[**modify its metadata and associated documentation**](../orkestra-desktop-app/definition-metadata-and-documentation-1.md), and open it directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
+People who have "**admin**" access to your content will be able to download it, **** [**modify its metadata and associated documentation**](../orkestra-desktop-app/definition-metadata-and-documentation-1.md), and open it directly in Dynamo. When opening a definition in Dynamo through the Orkestra Online Player Tab, it is loaded with the package environment that was associated to it!
 
 ## Using the Search Bar
 

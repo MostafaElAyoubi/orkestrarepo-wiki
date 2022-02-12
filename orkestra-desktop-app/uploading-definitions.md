@@ -29,7 +29,7 @@ If you already have a folder structure that is nice and tidy and has all your co
 You need to be an Admin of the Hub to be able to add a folder structure containing definitions to it.
 ```
 
-1. In the **Online Workspaces** window, select the **Hub ** you wish to upload definitions to.
+1. In the **Online Workspaces** window, select the **Hub** you wish to upload definitions to.
 2. Press ![addFolder](https://datashapes.files.wordpress.com/2020/05/uploadfolder.png?)
 
 ![](https://datashapes.files.wordpress.com/2020/05/uploadfoldersteps.png?)
