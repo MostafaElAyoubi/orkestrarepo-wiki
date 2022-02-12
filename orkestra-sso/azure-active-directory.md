@@ -39,7 +39,7 @@ To enable SSO, you must first complete the setup on the Microsoft AAD.
 
 ![](../.gitbook/assets/5.png)
 
-![Make sure you copy this value as it will be shown only the first time](../.gitbook/assets/6.png)
+![](../.gitbook/assets/secret.png)
 
 6 . Go to API Permissions => Add a permission
 
