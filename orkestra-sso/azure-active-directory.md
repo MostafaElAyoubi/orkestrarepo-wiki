@@ -33,6 +33,7 @@ To enable SSO, you must first complete the setup on the Microsoft AAD.
 * Display name : Orkestra
 * Redirect Uri type : Public client/native (mobile & desktop)
 * Redirect Uri : [https://login.microsoftonline.com/common/oauth2/nativeclient](https://login.microsoftonline.com/common/oauth2/nativeclient)
+* Click on **Register** button
 
 5 .  Create new client secret&#x20;
 
