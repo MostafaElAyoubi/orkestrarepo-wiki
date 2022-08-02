@@ -1,6 +1,6 @@
 # Orkestra Local Player Tab
 
-The **Local Player Tab of the Orkestra Revit Addin** is basically a Dynamo Player. 
+The **Local Player Tab of the Orkestra Revit Addin** is basically a Dynamo Player.&#x20;
 
 **It does not require you to log in to Orkestra** or even have an internet connexion. It lets you **play definitions that are located on your computer** or your server using your **local package settings**.
 
@@ -17,9 +17,9 @@ In the **Content TreeView**, folders are represented by a "![folder](https://dat
 The Local Player Tab of the Orkestra Revit Addin is more convenient to use that the Dynamo Player because:
 
 * It is a dockable pane that integrate better with Revit
-* It lets you set up tree structures in a very easy way \(no need to continuously browse to different folders\)
+*   It lets you set up tree structures in a very easy way (no need to continuously browse to different folders)
 
-  Here is how you can set up your local Workspaces:
+    Here is how you can set up your local Workspaces:
 
 ### Adding a Local Workspace
 
@@ -55,14 +55,13 @@ The search bar on the Orkestra Local Player Tab lets you search the content of a
 
 The Orkestra Local Player Tab offers an easy way to upload definitions to your online workspaces. You can :
 
-1. Right click any of your local definitions and select ![](../.gitbook/assets/addtows.png)
-2. A window with all the Hubs / Workspaces that you have an admin access to will appear. Select the workspace you wish to upload the definition to and click ![](../.gitbook/assets/add.png):
+1. Right click any of your local definitions and select <img src="../.gitbook/assets/addtows.png" alt="" data-size="original">
+2. A window with all the Hubs / Workspaces that you have an admin access to will appear. Select the workspace you wish to upload the definition to and click <img src="../.gitbook/assets/add.png" alt="" data-size="original">:
 
 ![](../.gitbook/assets/selectws.png)
 
-```text
+```
   This functionality is only available if you are logged in Orkestra Online!
 ```
 
-##  Playing a Definition
-
+## &#x20;Playing a Definition

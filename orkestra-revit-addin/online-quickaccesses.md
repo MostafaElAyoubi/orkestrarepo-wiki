@@ -10,7 +10,7 @@ Online QuickAccesses are yet another very **powerfull deployment functionnality*
 
 All the management functionnalities for QuickAccesses can be found in the "Online QuickAccesses Settings" window of the Orkestra Online Settings:
 
-1. Click ![](../.gitbook/assets/settings.PNG)&#x20;
+1. Click <img src="../.gitbook/assets/settings.PNG" alt="" data-size="original">&#x20;
 2. Select the QuickAccess section in the Online Settings : &#x20;
 
 ![Online QuickAssesses Settings Window](../.gitbook/assets/onlinequickaccesses.png)
@@ -33,9 +33,9 @@ Selecting a workspace in the list will display all the definitions it contains, 
 All you have to do to create que Workspace is:
 
 1. Select the "Definition" in the list.
-2. Press ![](../.gitbook/assets/addtoqa.png) to add it to the "QuickAccesses" list.
-3. Push the modifications you made to the Orkestra Online Platform by pressing ![](../.gitbook/assets/pushtocloud.png). By doing this, **you make the Online QuickAccess available to**[ **every user who has access to this workspace**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)**.**
-4. Press ![](../.gitbook/assets/refresh.png) to refresh you Revit Ribbon.
+2. Press <img src="../.gitbook/assets/addtoqa.png" alt="" data-size="original"> to add it to the "QuickAccesses" list.
+3. Push the modifications you made to the Orkestra Online Platform by pressing <img src="../.gitbook/assets/pushtocloud.png" alt="" data-size="original">. By doing this, **you make the Online QuickAccess available to**[ **every user who has access to this workspace**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)**.**
+4. Press <img src="../.gitbook/assets/refresh.png" alt="" data-size="original"> to refresh you Revit Ribbon.
 
 Here is a video of the process: &#x20;
 
@@ -50,9 +50,9 @@ The QuickAccesses for definitions that are located in the same workspace are gro
 Deleting an Online QuickAccess can be done by performing the following steps:
 
 1. Select the "QuickAccesses" in the list.
-2. Press ![](../.gitbook/assets/removeqa.png) to move it back to the "Definitions" list.
-3. Push the modifications you made to the Orkestra Online Platform by pressing ![](../.gitbook/assets/pushtocloud.png). By doing this, **you remove the Online QuickAccess for** [**every user who has access to this workspace**.](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)
-4. Press ![](../.gitbook/assets/refresh.png) to refresh you Revit Ribbon.
+2. Press <img src="../.gitbook/assets/removeqa.png" alt="" data-size="original"> to move it back to the "Definitions" list.
+3. Push the modifications you made to the Orkestra Online Platform by pressing <img src="../.gitbook/assets/pushtocloud.png" alt="" data-size="original">. By doing this, **you remove the Online QuickAccess for** [**every user who has access to this workspace**.](../orkestra-desktop-app/what-is-a-workspace.md#user-settings)
+4. Press <img src="../.gitbook/assets/refresh.png" alt="" data-size="original"> to refresh you Revit Ribbon.
 
 Here is a video of the process: &#x20;
 
@@ -86,7 +86,7 @@ You can group Online QuickAccesses in a ribbon dropdown button. This allows bett
 
 ![Grouping Onine QuickAccesses](../.gitbook/assets/onlineqa\_grouping.gif)
 
-All you need to do to ungroup the Online QuickAccesses is swith of this toggle: ![](../.gitbook/assets/grouping-toggle.png)&#x20;
+All you need to do to ungroup the Online QuickAccesses is swith of this toggle: <img src="../.gitbook/assets/grouping-toggle.png" alt="" data-size="original">&#x20;
 
 You can also customize the icon for the ribbon dropdown: &#x20;
 

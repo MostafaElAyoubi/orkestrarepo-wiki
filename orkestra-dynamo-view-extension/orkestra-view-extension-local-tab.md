@@ -4,15 +4,13 @@ The **Local Player Tab of the Orkestra Dynamo View Extension** is a very conveni
 
 **It does not require you to log in to Orkestra** or even have an internet connexion. It lets you **browse, search and open that are located on your computer** or your server.
 
-The **Local Tab** is represented by this logo : ![](<../.gitbook/assets/image (3).png>)&#x20;
+The **Local Tab** is represented by this logo : <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">&#x20;
 
 ## The Anatomy of the View Extension Local Tab
 
-&#x20;
+![](../.gitbook/assets/Snag\_15a32b38.png)
 
-![](../.gitbook/assets/anatomyoflocaltab.png)
-
-In the **Content TreeView**, folders are represented by a "![folder](https://datashapes.files.wordpress.com/2020/05/workspace.png?)" and Dynamo definitions by a "![def](https://datashapes.files.wordpress.com/2020/05/definition.png?)".
+In the **Content Browser**, folders are represented by a "![folder](https://datashapes.files.wordpress.com/2020/05/workspace.png?)" and Dynamo definitions by a "![def](https://datashapes.files.wordpress.com/2020/05/definition.png?)".
 
 ## Setting Local Workspaces
 
@@ -27,21 +25,21 @@ The Local Player Tab of the Orkestra Revit Addin is more convenient to use that 
 
 * **Through the Settings Window**
 
-![Adding a Local Workspace Through the Settings Window](../.gitbook/assets/addwssettings.gif)
+![](../.gitbook/assets/AddWS.gif)
 
 * **Right Click action**&#x20;
 
-![Adding a Local Workspace Through the Context Menu](../.gitbook/assets/addwsrightclick.gif)
+![](../.gitbook/assets/AddWSrightClick.gif)
 
 ### **Removing a Local Workspace** <a href="#removing-a-local-workspace" id="removing-a-local-workspace"></a>
 
 * **Through the Settings Window**&#x20;
 
-![Removing a Local Workspace Through the Settings Window](../.gitbook/assets/dellwsettings.gif)
+![](../.gitbook/assets/delWS.gif)
 
 * **Right Click action**&#x20;
 
-![Removing a Local Workspace Through the Context Menu](../.gitbook/assets/dellrightclick.gif)
+![](../.gitbook/assets/delWSrightclick.gif)
 
 ### Re-arranging Local Workspaces
 
@@ -49,7 +47,7 @@ The Local Player Tab of the Orkestra Revit Addin is more convenient to use that 
 
 The search bar on the Orkestra View Extension Local Tab lets you search the content of all your local workspaces. The search is based on definition names: &#x20;
 
-![Using the Search Bar to Browse Local Content](../.gitbook/assets/searchbarlocal.gif)
+![](../.gitbook/assets/searchBar.gif)
 
 ### Uploading a Local Definition to an Online Workspace <a href="#uploading-a-local-definition-to-an-online-workspace" id="uploading-a-local-definition-to-an-online-workspace"></a>
 
@@ -59,7 +57,7 @@ The search bar on the Orkestra View Extension Local Tab lets you search the cont
 
 The Orkestra View Extension Local Tab offers an easy way to upload definitions to your online workspaces. You can :
 
-1. Open a definition in Dynamo/ save the one you are working on and press :​ ![](../.gitbook/assets/pushtoorkestra.png)&#x20;
+1. Open a definition in Dynamo/ save the one you are working on and press :​ <img src="../.gitbook/assets/pushtoorkestra.png" alt="" data-size="original">&#x20;
 2. A window with all the Hubs / Workspaces that you have an admin access to will appear. Select the workspace you wish to upload the definition&#x20;
 
 ![Pushing a Local Definition to an Online Workspace](../.gitbook/assets/puchtoorkestra-options.png)
@@ -72,7 +70,7 @@ The Orkestra View Extension Local Tab offers an easy way to upload definitions t
 
 ![](../.gitbook/assets/backgroundsnapshot.gif)
 
-&#x20; 5\.  Once you've checked the  appropriate options and selected the Orkestra Online Workspace you wish to upload your definition to, click ![](../.gitbook/assets/add.png).
+&#x20; 5\.  Once you've checked the  appropriate options and selected the Orkestra Online Workspace you wish to upload your definition to, click <img src="../.gitbook/assets/add.png" alt="" data-size="original">.
 
 ```
 If you open an online definition, modify it and push it back to the same Workspace,
@@ -86,5 +84,4 @@ Older versions will still be accessible through the definition history.
 
 The View Extension Local Tab give you a quick and conveinient access to all your local definitions. Just browse your local workspaces/ use the search bar and double click de definition to open it in Dynamo: &#x20;
 
-![](../.gitbook/assets/openlocaldef.gif)
-
+![](../.gitbook/assets/opendefinition.gif)

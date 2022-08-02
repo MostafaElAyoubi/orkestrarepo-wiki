@@ -12,7 +12,7 @@ In the **Content TreeView**, [**Hubs**](../orkestra-desktop-app/what-is-a-hub.md
 
 ## Online Hub and Workspace Settings
 
-You can access the same "Online Workspaces" window as in the Orkestra Desktop App directly from the settings button of the Online Player Tab of the Revit Addin. You just need to click ![](../.gitbook/assets/settings.PNG):
+You can access the same "Online Workspaces" window as in the Orkestra Desktop App directly from the settings button of the Online Player Tab of the Revit Addin. You just need to click <img src="../.gitbook/assets/settings.PNG" alt="" data-size="original">:
 
 ![Accessing the Online Hub/ Workspace Settings](../.gitbook/assets/online-hub-settings.gif)
 
@@ -27,7 +27,7 @@ The Orkestra Online Player Tab is **one of the most powerful things about Orkest
 
 ### The Content
 
-The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login (or by pressing ![](../.gitbook/assets/refresh.png)), giving you constant access to the **latest** [**version** ](../orkestra-desktop-app/versioning.md)**of the definitions**.
+The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login (or by pressing <img src="../.gitbook/assets/refresh.png" alt="" data-size="original">), giving you constant access to the **latest** [**version** ](../orkestra-desktop-app/versioning.md)**of the definitions**.
 
 ![Direct Access to You Online Content Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
 

@@ -89,7 +89,7 @@ Once the sync if finished, you can see the list of packages and their versions d
 
 ### Adding a single package to the package settings
 
-1. Press the ![syncpackage](<../.gitbook/assets/image (12).png>)button&#x20;
+1. Press the <img src="../.gitbook/assets/image (12).png" alt="syncpackage" data-size="line">button&#x20;
 2. Browse to to the package folder you wish to add
 3. Confirm
 
@@ -102,7 +102,7 @@ OR : simply drag and drop a package folder
 ### Removing a single package to the WorkSpace settings
 
 1. Select the package you wish to remove
-2. Click the ![syncpackage](<../.gitbook/assets/image (11).png>) button
+2. Click the <img src="../.gitbook/assets/image (11).png" alt="syncpackage" data-size="line"> button
 
 ![](../.gitbook/assets/deletesingle-package.gif)
 
