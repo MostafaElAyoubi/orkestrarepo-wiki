@@ -36,10 +36,7 @@ You can easilly manage the users through this window:
  (Looking forward to collect feedback onthis particular point) 
 ```
 
-### Add multiple users to the Hub from .csv file
-
-1. Click on <img src="../.gitbook/assets/image (9).png" alt="" data-size="line">
-2. Select your .csv file. The format of the .csv must be as follow (UTF-8 Comma delimited) : first column is email, second column is access level.
+### ![](<../.gitbook/assets/image (1).png>)
 
 ![.](../.gitbook/assets/Snag\_1798f46.png)
 

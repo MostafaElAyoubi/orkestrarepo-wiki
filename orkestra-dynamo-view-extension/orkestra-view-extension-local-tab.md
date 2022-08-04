@@ -4,7 +4,7 @@ The **Local Player Tab of the Orkestra Dynamo View Extension** is a very conveni
 
 **It does not require you to log in to Orkestra** or even have an internet connexion. It lets you **browse, search and open that are located on your computer** or your server.
 
-The **Local Tab** is represented by this logo : <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">&#x20;
+The **Local Tab** is represented by this logo : <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">&#x20;
 
 ## The Anatomy of the View Extension Local Tab
 

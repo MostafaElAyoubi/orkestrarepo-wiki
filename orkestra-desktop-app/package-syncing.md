@@ -14,7 +14,7 @@ As an administrator, you can [assign packages to a workspace](what-is-a-workspac
 
 If you make changes to the package settings, every user who has access to this workspace will see a button with an alert icon. Hovering over it will let them know which changes have been made :
 
-![Package Update Alert in the Desktop App](<../.gitbook/assets/image (9) (1).png>)
+![Package Update Alert in the Desktop App](<../.gitbook/assets/image (9).png>)
 
 The user then only has to click that button to resync and make sure everything is up to date:
 
