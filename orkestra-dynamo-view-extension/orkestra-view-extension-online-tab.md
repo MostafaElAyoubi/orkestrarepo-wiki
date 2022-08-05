@@ -25,7 +25,7 @@ The Online Tab displays all the **Orkestra Online content** that is yours or tha
 
 ### The Versions
 
-You can check ount any version of an online definition through the ViewExtension's online tab:
+You can check out any version of an online definition through the ViewExtension's online tab:
 
 ![](../.gitbook/assets/checkoutVersion.gif)
 

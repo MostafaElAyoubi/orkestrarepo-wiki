@@ -13,5 +13,9 @@ Understanding what happened between two versions of a same definition might be t
 
 ![](../.gitbook/assets/compareVersions.gif)
 
+### Access all versions of your definitions
 
+You can check out any version of an online definition through the ViewExtension's online tab:
+
+![](../.gitbook/assets/checkoutVersion.gif)
 
