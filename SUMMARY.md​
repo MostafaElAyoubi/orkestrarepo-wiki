@@ -48,9 +48,10 @@
 * [Online QuickAccesses](orkestra-civil-3d-addin/online-quickaccesses.md)
 * [PlayLists](orkestra-civil-3d-addin/playlists.md)
 
-## ORKESTRA RHINO PLUGIN
+## ORKESTRA RHINO PLUGIN (beta) <a href="#orkestra-rhino-plugin" id="orkestra-rhino-plugin"></a>
 
 * [Introduction](orkestra-rhino-plugin/introduction.md)
+* [Install](orkestra-rhino-plugin/install.md)
 * [LogIn](orkestra-rhino-plugin/login.md)
 * [Grasshopper Plugin Deployment](orkestra-rhino-plugin/grasshopper-plugin-deployment.md)
 * [Orkestra Rhino Local Tab](orkestra-rhino-plugin/orkestrarhinolocaltab.md)
