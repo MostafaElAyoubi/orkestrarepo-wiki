@@ -30,12 +30,6 @@ You can easilly manage the users through this window:
 
 ![enteruser](https://datashapes.files.wordpress.com/2020/05/enteruser.png?)
 
-```diff
- Note that - for now - every person invited to a Hub will have an "Admin" role. 
- There is no "User" role at Hub level. 
- (Looking forward to collect feedback onthis particular point) 
-```
-
 ### ![](<../.gitbook/assets/image (1).png>)
 
 ![.](../.gitbook/assets/Snag\_1798f46.png)
