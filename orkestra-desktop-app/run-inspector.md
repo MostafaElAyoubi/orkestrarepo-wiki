@@ -24,7 +24,7 @@ The Access is rather straightforward : you can right click any definition and ac
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The First Screen Of The Run Inspector Show You The Full History Of Runs For The Selected Definition</p></figcaption></figure>
 
-That screen also helps you get a first glimpse at which runs were performed with errors. You can then click the littlee magnifier to enter the Orkestra Editor and visualize the exact state of the graph after that run! So, from now on, if a user tells you "it doesn't work", all you have to do is check the run Inspector and see exactly what went wrong!&#x20;
+That screen also helps you get a first glimpse at which runs were performed with errors. You can then click the little magnifier to enter the Orkestra Editor and visualize the exact state of the graph after that run! So, from now on, if a user tells you "it doesn't work", all you have to do is check the Run Inspector and see exactly what went wrong!&#x20;
 
 <figure><img src="../.gitbook/assets/RunInspector_RNgif.gif" alt=""><figcaption></figcaption></figure>
 
