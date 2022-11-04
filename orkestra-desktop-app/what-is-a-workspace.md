@@ -55,7 +55,7 @@ An **admin** will be able to edit all settings of the Workspace and will also be
 1. Click on <img src="../.gitbook/assets/image (2) (2).png" alt="" data-size="line"> ​​
 2. Select your .csv file. The format of the .csv must be as follow (UTF-8 Comma delimited) : first column is email, second column is access level.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 
 

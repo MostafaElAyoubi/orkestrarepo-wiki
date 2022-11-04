@@ -30,7 +30,7 @@ You can easilly manage the users through this window:
 
 ![enteruser](https://datashapes.files.wordpress.com/2020/05/enteruser.png?)
 
-### ![](<../.gitbook/assets/image (1).png>)
+### ![](<../.gitbook/assets/image (1) (2).png>)
 
 ![.](../.gitbook/assets/Snag\_1798f46.png)
 
