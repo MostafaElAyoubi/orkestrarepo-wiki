@@ -20,11 +20,11 @@ When the Run Inspector is enabled for the hub, the collection will start for all
 
 ## How to access the Run Inspector for a definition
 
-The Access is rather straightforward : you can right click any definition and access the Run Inspector. The first this you will see is the history of runs for that specific definition with information about Revit version, Dynamo version, Document name, Run time, Date time, user name etc.&#x20;
+The Access is rather straightforward : you can right click any definition and access the Run Inspector. The first thing you will see is the history of runs for that specific definition with information about Revit version, Dynamo version, Document name, Run time, Date time, user name etc.&#x20;
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The First Screen Of The Run Inspector Show You The Full History Of Runs For The Selected Definition</p></figcaption></figure>
 
-You well also get a first glimpse at which runs were performed with errors. You can then click the liccke magnifier to enter the Orkestra Editor and visualize the exact state of the graph after that run! So from now on, if a user tells you "it doesn't work", all you have to do is check the run Inspector and see exactly what went wrong!&#x20;
+You well also get a first glimpse at which runs were performed with errors. You can then click the littlee magnifier to enter the Orkestra Editor and visualize the exact state of the graph after that run! So, from now on, if a user tells you "it doesn't work", all you have to do is check the run Inspector and see exactly what went wrong!&#x20;
 
 <figure><img src="../.gitbook/assets/RunInspector_RNgif.gif" alt=""><figcaption></figcaption></figure>
 
