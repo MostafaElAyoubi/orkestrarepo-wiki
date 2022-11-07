@@ -10,7 +10,7 @@ description: Orkestra provides you with a unique way to track runs of your Dynam
 
 The Run inspector has been introduced in Orkestra v.1.6.0 . This version of Orkestra records all the relevant information for you to troubleshoot any run!&#x20;
 
-## How to enable to Run Inspector
+## How to enable the Run Inspector
 
 Since the Run Inspector requires to record more information than our basic analytics, you'll have to enable it at your hub level. We did this because it is important for us to make sure that you are aware that all the data passing through your Dynamo tool nodes will be recorded, which may include project data or personnal data. Our privacy policy does cover this topic and you can rest assured that none of that data is sold or reused. It is stored for the sole purpose of providing you with the best possible toolset to manage your deployments!
 
