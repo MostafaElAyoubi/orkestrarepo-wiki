@@ -30,7 +30,11 @@ You can easilly manage the users through this window:
 
 ![enteruser](https://datashapes.files.wordpress.com/2020/05/enteruser.png?)
 
-### ![](<../.gitbook/assets/image (1) (2).png>)
+You can also batch add users from a csv file by clicking on  :
+
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+
+The structure of the coma delimited CSV must be as follow:
 
 ![.](../.gitbook/assets/Snag\_1798f46.png)
 
