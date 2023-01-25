@@ -49,7 +49,7 @@ in your definitions. This will make the package environment shift much faster.
 
 If the administrator of one of your [Hubs](../orkestra-desktop-app/what-is-a-hub.md) / [Workspaces ](../orkestra-desktop-app/what-is-a-workspace.md)updates the [packages settings](../orkestra-desktop-app/package-syncing.md), you'll be notified with a button that displays a warning icon. Hovering over that button will let you know which changes have been made. You only need to click that button to resync and make sure everything is up to date again. _**Note that you won't be able to play any online definition if you are not up to date (the Online Definition Browser will be disabled) !**_
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ### The Analytics
 

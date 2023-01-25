@@ -24,7 +24,7 @@ description: >-
 
 #### 3. Paste the Url from your clipboard and hit OK
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 #### 4. The response will be automatically recognized and converted to a table by PowerBI. You can hit “Close\&Apply”
 
