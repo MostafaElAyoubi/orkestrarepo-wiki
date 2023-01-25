@@ -1,7 +1,7 @@
 ---
 description: >-
   Before you start inviting users to hubs/workspaces, there is a couple of
-  important elements to beare in mind:
+  important elements to beare in mind!
 ---
 
 # Inviting SSO users to Hubs/Workspaces
