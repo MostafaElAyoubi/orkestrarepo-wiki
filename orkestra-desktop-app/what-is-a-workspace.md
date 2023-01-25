@@ -13,7 +13,7 @@ Workspaces are the **first level of subfolders inside a Hub**. A Workspace is a 
 
 
 
-![WorkSpace creation interface](../.gitbook/assets/addworkspace.png)
+![WorkSpace creation interface](../.gitbook/assets/addWorkspace.png)
 
 ![](https://datashapes.files.wordpress.com/2020/05/wsadded.png?)
 
@@ -34,7 +34,7 @@ displayed inside other version of Revit in order to reduce run errors and compat
 
 In the Workspace Settings, you can specify which user gets access to its content. The list of users and their level of access is diplayed here:
 
-![](../.gitbook/assets/usersettings.png)
+![](../.gitbook/assets/userSettings.png)
 
 **If someone has access to the parent Hub of the Workspace as a Hub Admin, they automatically have access to the Workspace as well.**
 
@@ -52,10 +52,10 @@ An **admin** will be able to edit all settings of the Workspace and will also be
 
 ### Add multiple users to the Workspace from .csv file <a href="#add-multiple-users-to-the-hub-from-.csv-file" id="add-multiple-users-to-the-hub-from-.csv-file"></a>
 
-1. Click on <img src="../.gitbook/assets/image (2) (2).png" alt="" data-size="line"> ​​
+1. Click on <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> ​​
 2. Select your .csv file. The format of the .csv must be as follow (UTF-8 Comma delimited) : first column is email, second column is access level.
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 
 
@@ -71,7 +71,7 @@ An **admin** will be able to edit all settings of the Workspace and will also be
 
 2. Click on ![delUser](https://datashapes.files.wordpress.com/2020/05/updaterole.png?) to update the user role information in the platform&#x20;
 
-![](../.gitbook/assets/userrole.png)
+![](../.gitbook/assets/userRole.png)
 
 ## Package Settings
 
@@ -81,7 +81,7 @@ By default, the Hub settings are inherited. The list of packages is greyed out a
 
 Once the toggle is switched on, the modifications are enabled for the Workspace:
 
-![](../.gitbook/assets/overridehubsettings.gif)
+![](../.gitbook/assets/overrideHubSettings.gif)
 
 ### Synchronizing a set of packages with your Workspace, you need to :&#x20;
 
@@ -98,34 +98,34 @@ Once the sync if finished, you can see the list of packages and their versions d
 
 ### Adding a single package to the package settings
 
-1. Press the <img src="../.gitbook/assets/image (12).png" alt="syncpackage" data-size="line">button&#x20;
+1. Press the <img src="../.gitbook/assets/image (7).png" alt="syncpackage" data-size="line">button&#x20;
 2. Browse to to the package folder you wish to add
 3. Confirm
 
-![](../.gitbook/assets/addsinglepackage.gif)
+![](../.gitbook/assets/addSinglePackage.gif)
 
 OR : simply drag and drop a package folder
 
-![](../.gitbook/assets/dragdrop-package.gif)
+![](<../.gitbook/assets/DragDrop Package.gif>)
 
 ### Removing a single package to the WorkSpace settings
 
 1. Select the package you wish to remove
-2. Click the <img src="../.gitbook/assets/image (11).png" alt="syncpackage" data-size="line"> button
+2. Click the <img src="../.gitbook/assets/image (15).png" alt="syncpackage" data-size="line"> button
 
-![](../.gitbook/assets/deletesingle-package.gif)
+![](<../.gitbook/assets/DeleteSingle Package.gif>)
 
 ## Software Compatibility Settings
 
 Ever since Orkestra 1.1.0, you can specify the software compatibility of a Workspace:
 
-![Setting the software compatibility for a Workspace](../.gitbook/assets/softwarecompatibilitysettings.gif)
+![Setting the software compatibility for a Workspace](../.gitbook/assets/softwareCompatibilitySettings.gif)
 
 &#x20;This will have two consequences:&#x20;
 
 * You'll be able to filter  your content -based on this informations- while browsing&#x20;
 
-![](../.gitbook/assets/versionbroswsing.gif)
+![](../.gitbook/assets/versionBroswsing.gif)
 
 * In all Orkestra integrations, the content will be automatically filtered based on the software version you're in. For example, if you're in Revit 2020, you'll only see the werspaces set as compatible with Revit 2020.
 

@@ -10,29 +10,28 @@ description: >-
 
 #### 1. Getting your PowerBI Url from the Account section of Orkestra
 
-![Clicking on the Power BI button will copy the Url to your clipboard](../.gitbook/assets/image%20%2814%29.png)
+![Clicking on the Power BI button will copy the Url to your clipboard](<../.gitbook/assets/image (4).png>)
 
 ### In PowerBI
 
 #### 1. Go to the opening screen of PowerBI and select “Get data from another source”
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (1).png>)
 
 #### 2. Select “Other”, then “Web”, then “Connect”
 
-![](../.gitbook/assets/2.png)
+![](<../.gitbook/assets/2 (1).png>)
 
 #### 3. Paste the Url from your clipboard and hit OK
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](<../.gitbook/assets/image (8).png>)
 
-#### 4. The response will be automatically recognized and converted to a table by PowerBI. You can hit “Close&Apply”
+#### 4. The response will be automatically recognized and converted to a table by PowerBI. You can hit “Close\&Apply”
 
 ![](../.gitbook/assets/4.png)
 
 #### 5. Build your custom Dashboards!
 
-![](../.gitbook/assets/orkestrawebapi%20%281%29.gif)
+![](../.gitbook/assets/OrkestraWebApi.gif)
 
-## 
-
+##

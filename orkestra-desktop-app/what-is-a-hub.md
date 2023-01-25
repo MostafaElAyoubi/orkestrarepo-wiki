@@ -32,7 +32,7 @@ You can easilly manage the users through this window:
 
 You can also batch add users from a csv file by clicking on  :
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 The structure of the coma delimited CSV must be as follow:
 
