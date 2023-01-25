@@ -76,3 +76,4 @@
   * [App Registration](orkestra-sso/azure-active-directory.md)
   * [Granting Accesses](orkestra-sso/azure-active-directory/granting-accesses.md)
   * [Logging in as a User](orkestra-sso/azure-active-directory/logging-in-as-a-user.md)
+  * [Inviting SSO users to Hubs/Workspaces](orkestra-sso/azure-active-directory/inviting-sso-users-to-hubs-workspaces.md)
