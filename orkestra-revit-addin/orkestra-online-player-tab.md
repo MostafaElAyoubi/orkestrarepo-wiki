@@ -14,7 +14,7 @@ In the **Content TreeView**, [**Hubs**](../orkestra-desktop-app/what-is-a-hub.md
 
 You can access the same "Online Workspaces" window as in the Orkestra Desktop App directly from the settings button of the Online Player Tab of the Revit Addin. You just need to click <img src="../.gitbook/assets/settings.PNG" alt="" data-size="original">:
 
-![Accessing the Online Hub/ Workspace Settings](<../.gitbook/assets/Online Hub settings.gif>)
+![Accessing the Online Hub/ Workspace Settings](../.gitbook/assets/online-hub-settings.gif)
 
 From here, you can perform all the settings introduced in the following chapters:
 
@@ -29,13 +29,13 @@ The Orkestra Online Player Tab is **one of the most powerful things about Orkest
 
 The Online Player Tab displays all the **Orkestra Online content** that is yours or that you were given access to through the [**user settings**](../orkestra-desktop-app/what-is-a-workspace.md#user-settings) of the Orkestra Platform. It Refreshes automatically at login (or by pressing <img src="../.gitbook/assets/refresh.png" alt="" data-size="original">), giving you constant access to the **latest** [**version** ](../orkestra-desktop-app/versioning.md)**of the definitions**.
 
-![Direct Access to You Online Content Through the Online Player Tab](../.gitbook/assets/OnlineContent.png)
+![Direct Access to You Online Content Through the Online Player Tab](../.gitbook/assets/onlinecontent.png)
 
 ### The Package Settings
 
 The Online Player Tab [**uses the package settings**](../orkestra-desktop-app/what-is-a-workspace.md#package-settings) that were associated to the Hubs and Workspaces and **ensures that you have the appropriate dependencies loaded at each run**! Every time you play a definition through the Orkestra Online Player Tab, it detects the need to switch your package environment accordingly with the settings. When it does so, this window appears :&#x20;
 
-![Orkestra Automatically Switches Your Packages to Fit the Workspace Settings](../.gitbook/assets/PackageSetting.PNG)
+![Orkestra Automatically Switches Your Packages to Fit the Workspace Settings](../.gitbook/assets/packagesetting.PNG)
 
 This phase takes somewhere between a couple of seconds and a couple of minutes, depending on the number of packages you have associated to your Workspace. With a reasonable amount of packages, it shouldn't take more than 15 seconds. But it is optimized in a way that it only does so when the package environment needs to be changed. **This solves one of the most challenging problems of deploying Dynamo content at a large scale**.&#x20;
 
@@ -49,7 +49,7 @@ in your definitions. This will make the package environment shift much faster.
 
 If the administrator of one of your [Hubs](../orkestra-desktop-app/what-is-a-hub.md) / [Workspaces ](../orkestra-desktop-app/what-is-a-workspace.md)updates the [packages settings](../orkestra-desktop-app/package-syncing.md), you'll be notified with a button that displays a warning icon. Hovering over that button will let you know which changes have been made. You only need to click that button to resync and make sure everything is up to date again. _**Note that you won't be able to play any online definition if you are not up to date (the Online Definition Browser will be disabled) !**_
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ### The Analytics
 

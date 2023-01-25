@@ -14,7 +14,7 @@ description: >-
 
 You can save the content of a Python node as a Local Code Snippet simply by using the context menu option as shown below:&#x20;
 
-![](<../.gitbook/assets/localFromNode (1).gif>)
+![](../.gitbook/assets/localFromNode.gif)
 
 #### From the Orkestra Python IDE
 

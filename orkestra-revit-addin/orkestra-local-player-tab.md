@@ -49,16 +49,16 @@ The Local Player Tab of the Orkestra Revit Addin is more convenient to use that 
 
 The search bar on the Orkestra Local Player Tab lets you search the content of all your local workspaces. The search is based on definition names:
 
-![Using the search bar to browse local content](../.gitbook/assets/localSearch.gif)
+![Using the search bar to browse local content](../.gitbook/assets/localsearch.gif)
 
 ### Uploading a Local Definition to an Online Workspace
 
 The Orkestra Local Player Tab offers an easy way to upload definitions to your online workspaces. You can :
 
-1. Right click any of your local definitions and select <img src="../.gitbook/assets/addToWs.png" alt="" data-size="original">
-2. A window with all the Hubs / Workspaces that you have an admin access to will appear. Select the workspace you wish to upload the definition to and click <img src="../.gitbook/assets/Add.png" alt="" data-size="original">:
+1. Right click any of your local definitions and select <img src="../.gitbook/assets/addtows.png" alt="" data-size="original">
+2. A window with all the Hubs / Workspaces that you have an admin access to will appear. Select the workspace you wish to upload the definition to and click <img src="../.gitbook/assets/add.png" alt="" data-size="original">:
 
-![](../.gitbook/assets/SelectWS.png)
+![](../.gitbook/assets/selectws.png)
 
 ```
   This functionality is only available if you are logged in Orkestra Online!

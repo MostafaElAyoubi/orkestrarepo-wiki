@@ -4,7 +4,7 @@ The **Local Player Tab of the Orkestra Dynamo View Extension** is a very conveni
 
 **It does not require you to log in to Orkestra** or even have an internet connexion. It lets you **browse, search and open that are located on your computer** or your server.
 
-The **Local Tab** is represented by this logo : <img src="../.gitbook/assets/image (28).png" alt="" data-size="original">&#x20;
+The **Local Tab** is represented by this logo : <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">&#x20;
 
 ## The Anatomy of the View Extension Local Tab
 
@@ -57,20 +57,20 @@ The search bar on the Orkestra View Extension Local Tab lets you search the cont
 
 The Orkestra View Extension Local Tab offers an easy way to upload definitions to your online workspaces. You can :
 
-1. Open a definition in Dynamo/ save the one you are working on and press :​ <img src="../.gitbook/assets/pushToOrkestra.png" alt="" data-size="original">&#x20;
+1. Open a definition in Dynamo/ save the one you are working on and press :​ <img src="../.gitbook/assets/pushtoorkestra.png" alt="" data-size="original">&#x20;
 2. A window with all the Hubs / Workspaces that you have an admin access to will appear. Select the workspace you wish to upload the definition&#x20;
 
-![Pushing a Local Definition to an Online Workspace](<../.gitbook/assets/PuchToOrkestra options.png>)
+![Pushing a Local Definition to an Online Workspace](../.gitbook/assets/puchtoorkestra-options.png)
 
 &#x20;3\. There is an extra "**Upload Graph Snapshot**" option when uploading a definition from the Orkestra View     Extension. Checking it wil automatically add an image of the graph to the definition's associated metadata. It will be accessible from the properties pannel of the "Online Workspaces" window: &#x20;
 
-![](../.gitbook/assets/graphSnapshot.gif)
+![](../.gitbook/assets/graphsnapshot.gif)
 
 &#x20;4\. There is an extra "**Upload 3D Background Snapshot**" option when uploading a definition from the Orkestra View Extension. Checking it wil automatically add an image of the Dynamo background geometry to the definition's associated metadata. It will be accessible from the properties pannel of the "Online Workspaces" window:  &#x20;
 
-![](../.gitbook/assets/backgroundSnapshot.gif)
+![](../.gitbook/assets/backgroundsnapshot.gif)
 
-&#x20; 5\.  Once you've checked the  appropriate options and selected the Orkestra Online Workspace you wish to upload your definition to, click <img src="../.gitbook/assets/Add.png" alt="" data-size="original">.
+&#x20; 5\.  Once you've checked the  appropriate options and selected the Orkestra Online Workspace you wish to upload your definition to, click <img src="../.gitbook/assets/add.png" alt="" data-size="original">.
 
 ```
 If you open an online definition, modify it and push it back to the same Workspace,

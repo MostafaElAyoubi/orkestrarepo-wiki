@@ -17,11 +17,11 @@ description: >-
 
 #### 1. Go to the opening screen of PowerBI and select “Get data from another source”
 
-![](<../.gitbook/assets/1 (1).png>)
+![](../.gitbook/assets/1.png)
 
 #### 2. Select “Other”, then “Web”, then “Connect”
 
-![](<../.gitbook/assets/2 (1).png>)
+![](../.gitbook/assets/2.png)
 
 #### 3. In the URL box, do the following
 

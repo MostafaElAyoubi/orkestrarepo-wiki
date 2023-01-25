@@ -8,6 +8,6 @@ When logged to Orkestra through the Desktop app, you have access to all your con
 
 Since version 1.1.0, you can filter the content by Software version :
 
-![Browsing content and filtering by version](../.gitbook/assets/versionBroswsing.gif)
+![Browsing content and filtering by version](../.gitbook/assets/versionbroswsing.gif)
 
 The information about software version is set inside the [Workspace Settings](what-is-a-workspace.md#software-compatibility-settings), where you can specify the version compatibility.&#x20;
