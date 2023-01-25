@@ -72,4 +72,7 @@
 
 ## Orkestra SSO
 
-* [Azure Active Directory](orkestra-sso/azure-active-directory.md)
+* [Azure Active Directory](orkestra-sso/azure-active-directory/README.md)
+  * [App Registration](orkestra-sso/azure-active-directory/app-registration.md)
+  * [Granting Accesses](orkestra-sso/azure-active-directory/granting-accesses.md)
+  * [Logging in as a User](orkestra-sso/azure-active-directory/logging-in-as-a-user.md)
